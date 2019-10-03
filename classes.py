@@ -1,6 +1,4 @@
-#!/usr/bin/python
 import sys, os
-import unicodedata 
 
 #print(os.listdir('.'))
 
@@ -40,21 +38,22 @@ d = dict(zip(names,dicts))
 
 fulfills = {i:0 for i in cl_ind}
 reqs = {i:[] for i in cl_ind}
+reqs_real = {i:set() for i in cl_ind}
 lengths = {1 : 0, 2 : 0, 3 : 0}
 
 # number of and which specific requirements a class fulfills
 for i in d: 
     for n in d[i]:
-       fulfills[n] += 1
+       #fulfills[n] += 1
        reqs[n].append(i)
+       reqs_real[n].add(i.split('_')[0])
+       fulfills[n] = len(reqs_real[n])
 
 # find the number of classes the fulfill X requirements
 for i in fulfills: 
     lengths[fulfills[i]] += 1
 
-
-
-good = {i : reqs[i] for i in fulfills if fulfills[i] == 2}
+good = {i : reqs[i] for i in fulfills if fulfills[i] >= 2}
 alph = sorted(good.keys())
 
 for i in alph: 
@@ -74,3 +73,6 @@ for i in alph:
             c += " (" + alt_name_2 + ") - " + course_desc.get(alt_name_2)[0]
             l += course_desc.get(alt_name_2)[1] + "\n"
         print(i + c + "\t" + str(good[i]) + l)
+
+
+        
