@@ -11,6 +11,8 @@ course_raw = [i.replace("-","**").split("*") for i in fin.read().split("\n") if 
 course_desc = {i[0].strip():[i[-2].strip(), "http://catalog.hunter.cuny.edu/" + i[-1]] for i in course_raw}
 fin.close()
 
+
+
 files = [f for f in os.listdir(os.getcwd() + '/data') if f != "classes.py" and f != "scrape.py" and f!= "courses.txt" and f[-4:] == ".txt"] 
 names = [f[0:-4] for f in files] 
 dicts = []
@@ -49,6 +51,8 @@ for i in d:
 # find the number of classes the fulfill X requirements
 for i in fulfills: 
     lengths[fulfills[i]] += 1
+
+
 
 good = {i : reqs[i] for i in fulfills if fulfills[i] == 2}
 alph = sorted(good.keys())
