@@ -1,0 +1,5 @@
+ANTHC | 10000 or  
+HIST | 15100 or  15200 or  
+PHILO | 22600 or  
+POLSC | 11000
+

@@ -1,0 +1,14 @@
+AFPRL | 10400 or 
+ARTH | 11100 or  
+ASIAN | 21000 or 
+CHIN | 251@ or  
+CLA | 25000 or  25100 or  25300 or  
+HEBR | 21100 or  29200 or 
+HUM | 11000 or  
+ITAL | 28000 or  
+PN | 25100 or  
+MEDIA | 18000 or  
+PHILO | 10100 or  10400 or  20400 or  
+REL | 11000 or 11100 or  20400 or  20500 or  20600 or  20700 or  20800 or  20900 or  25500 or  27000 or  
+RUSS | 15600 or  15800 or  25000 or  25100 or 25200 or  25400 or  26000 or  27000or  29700
+

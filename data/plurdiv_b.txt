@@ -1,0 +1,21 @@
+AFPRL | 10100 or  10000 or  10200 or  10300 or  10400 or  14100 or  20300 or 20400 or  20500 or  22000 or  23600 or  23700 or  23800 or  24300 or  24400 or  25500 or 26000 or  29001 or  29020 or  29028 or  29030 or  29035 or  29041 or  29053 or  29066 or 30400 or  30900 or  31300 or  31800 or  31900 or  32000 or  32100 or  35100 or  35600 or 36200 or  38700 or  39025 or  42858 or  42859 or  
+ANTHC | 20300 or 21100 or  21500 or  21800 or  32089 or  42659 or  
+ASIAN | 210@ or  220@ or  22500 or 230@ or  320@ or  330@ or  340@ or  351@ or  390@ or  49000 or  49100 or  
+EDUC | 25000or  
+ENGL | 25080 or  25088 or  25092 or  25096 or  25552 or  256@ or  25852 or  25856 or 31755 or  318@ or  32000 or  321@ or  323@ or  32400 or  326@ or  34700 or  38967 or 39053 or  49469 or  
+FILM | 21451 or  32700 or  
+GEOG | 24100 or  34200 or  
+HIST | 25004 or 
+LACS | 43423 or  43414 or  43415 or  43448 or  43483 or  43491 or  
+MEDIA | 32700 or  39921or  
+MUSHL | 21700 or  22100 or  22100 or  
+NURS | 34600 or  38400 or  
+PHILO | 22600 or 34700 or  
+POLSC | 22100 or  22800 or  31701 or  32000 or  
+REL | 25400 or  25600 or  25700or  
+SOC | 21700 or  30700 or  22506 or  22507 or  22508 or  
+THEA | 21400 or  21500 or 
+URBS | 40365 or  40367 or  
+WGSL | 29003 or  20600 or  29003 or  
+WGS | 20058 or  20068 or 20092 or  30036 or  30048 or  30073 or  31851 or  31954 or  32900
+

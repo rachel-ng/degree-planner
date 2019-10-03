@@ -1,0 +1,29 @@
+AFPRL | 10100 or  14100 or  14300 or  20100 or  20200 or  20600 or  20700 or 20800 or  20900 or  21000 or  22000 or  22200 or  23500 or  23700 or  23800 or  24100 or 24200 or  24300 or  24500 or  24600 or  29003 or  29009 or  29016 or  29019 or  29020 or 29028 or  29035 or  29041 or  29063 or  30600 or  30900 or  31300 or  32000 or  32100 or 32200 or  34200 or  35100 or  35500 or  36200 or  42858 or  42859 or  
+ANTHC | 10100 or 20000 or  20100 or  20400 or  21100 or  21300 or  21400 or  22600 or  22800 or  30300 or 30400 or  30500 or  30700 or  30800 or  30900 or  31000 or  32089 or  32600 or  40155 or 40192 or  
+ARB | 15000 or  25000 or  25100 or  25200 or  25300 or  25400 or  25500 or  25600or  25700 or  40100 or  498@ or  
+ARTH | 20500 or  26000 or  26300 or  27000 or  361@ or 371@ or  410@ or  460@ or  470@ or  
+ASIAN | 39010 or  
+CHIN | 11100 or  11200 or  30600or  30700 or  35500 or  35700 or  
+CLA | 22500 or  22700 or  32200 or  32300 or 
+COMPL | 32058 or  38082 or  38003 or  
+DAN | 252@ or  352@ or  
+ECO | 33000 or 
+ENGL | 25092 or  255@ or  25851 or  317@ or  32500 or  32700 or  33360 or  38669 or  38677or  
+FILM | 21344 or  21354 or  21355 or  21462 or  26900 or  29953 or  32800 or 
+GEOG | 15000 or  27000 or  27100 or  27400 or  27500 or  27700 or  27800 or  37000 or 37100 or  38389 or  
+HEBR | 21500 or  22000 or  22100 or  22200 or  24000 or  25900 or 28600 or  28800 or  29000 or  29200 or  29400 or  29500 or  29600 or  31500 or  31600 or 31700 or  31800 or  32100 or  
+HIST | 11100 or  20800 or  27650 or  27651 or  27700 or 27800 or  28800 or  28900 or  31900 or  31900 or  34120 or  37300 or  27651 or  37900 or 38000 or  
+HONS | 20154 or  30167 or  
+JPN | 25100 or  25200 or  261@ or  
+JS | 150@ or  250@or  350@ or  
+LACS | 43403 or  43405 or  43408 or  43415 or  43423 or  43425 or  43426 or 43428 or  43441 or  43462 or  43483 or  43491 or  
+MEDIA | 29975 or  32800 or  39500 or 
+MUSHL | 10700 or  24000 or  24100 or  24300 or  24500 or  25000 or  35200 or  35300 or 
+PHILO | 21900 or  22100 or  
+POLSC | 250@ or  25200 or  25300 or  25500 or  25600 or  26000or  26200 or  26300 or  26700 or  25700 or  26000 or  27202 or  353@ or  35600 or  38100 or 36000 or  
+REL | 25100 or  25200 or  25400 or  25500 or  32000 or  32100 or  32200 or  32400or  33600 or  33700 or  
+RUSS | 29300 or  
+SPAN | 26900 or  
+SOC | 36100 or  
+WGS | 20050 or 20058 or  20067 or  20073 or  25851 or  26900 or  30063 or  30064 or  30069
+
