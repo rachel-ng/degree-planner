@@ -147,6 +147,9 @@ http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109228
 
 PHILO 20400	['fcc_ind', 'plurdiv_d']
 
+PHILO 21900 - Chinese Philosophy (W)	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109394
+
 PHILO 22600 - American Philosophy (W)	['plurdiv_b', 'fcc_us']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109399
 

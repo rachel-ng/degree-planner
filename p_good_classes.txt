@@ -1,0 +1,2077 @@
+AFPRL 10000 - Introduction to Black Politics	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107860
+
+AFPRL 10100 - Introduction to Africana Studies	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107861
+
+AFPRL 10200 - Latino Communities in the United States	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107862
+
+AFPRL 10300 - Conquest and Resistance: Puerto Rican Experiences in Comparative Perspective	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107863
+
+AFPRL 14100 - Puerto Rican Folklore	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107864
+
+AFPRL 14300 - The Image of the Puerto Rican National Identity in Its Literature	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107865
+
+AFPRL 18200 - Culture and Ethnic Identity	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107867
+
+AFPRL 20300 - African American History I	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107870
+
+AFPRL 20400 - African American History II	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107871
+
+AFPRL 20500 - African American Politics of Social Change	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107872
+
+AFPRL 20600 - African Political and Social Change	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107873
+
+AFPRL 20700 - African Caribbean Politics I	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107874
+
+AFPRL 20800 - African Caribbean Politics II	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107875
+
+AFPRL 22000 - African Spirituality in the Diaspora	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107879
+
+AFPRL 23500 - African Literature (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107881
+
+AFPRL 23600 - African American Literature (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107882
+
+AFPRL 23700 - African Caribbean Literature (W)	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107883
+
+AFPRL 24100 - Puerto Rican History to 1897	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107885
+
+AFPRL 24200 - Puerto Rican History Since 1898	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107886
+
+AFPRL 24400 - Puerto Ricans in the United States	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107888
+
+AFPRL 24500 - Puerto Rican Literature I	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107889
+
+AFPRL 24600 - Puerto Rican Literature II	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107890
+
+AFPRL 25500 - Puerto Rican/Latino Children in North American Schools	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107893
+
+AFPRL 26000 - Latinos and US Citizenship	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110235
+
+AFPRL 29001 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29003 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29009 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29016 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29019 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29020 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29028 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29030 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29035 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29041 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_b', 'plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29053 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29063 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 29066 (AFPRL 29000) - Selected Topics in Africana and Puerto Rican/Latino Studies	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107897
+
+AFPRL 30400 - Leaders and Movements of Black Urban Communities (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107898
+
+AFPRL 30600 - Modern African International Relations (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107899
+
+AFPRL 30900 - Americans and Africa (W)	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107902
+
+AFPRL 31300 - Slavery (W)	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107904
+
+AFPRL 31800 - Women in Africa (W)	['plurdiv_b', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107906
+
+AFPRL 31900 - Women in the African Diaspora (W)	['plurdiv_b', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107907
+
+AFPRL 32000 - Caribbean Culture (W)	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107908
+
+AFPRL 32100 - Caribbean Migration and New York City (W)	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107909
+
+AFPRL 32200 - African World View: Philosophy and Symbolic Thought (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107911
+
+AFPRL 33600 - American Women Writers (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107915
+
+AFPRL 34200 - Political Nationalism in Puerto Rico (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107917
+
+AFPRL 35100 - Major Puerto Rican Figures (W)	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107918
+
+AFPRL 35500 - The African Image in 19th and 20th century Spanish Antillean Poetry (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107920
+
+AFPRL 35600 - Latino Literature in English (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107921
+
+AFPRL 36200 - Puerto Rican and Caribbean Religious Practices (W)	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107924
+
+AFPRL 38700 - Puerto Rican/Latino Politics in the United States (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107927
+
+AFPRL 39025 (AFPRL 39000) - Research Topics in Africana and Puerto Rican/Latino Studies (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107928
+
+ANTHC 10000 - Cultural Diversity in the United States: Historical and Ethnographic Perspectives (W)	['fcc_us']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110249
+
+ANTHC 10100 - Introduction to Cultural Anthropology	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107938
+
+ANTHC 12600 - Introduction to Prehistoric Archaeology	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107939
+
+ANTHC 15100 - Introduction to Linguistics	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107941
+
+ANTHC 20000 - Africa: Societies and Cultures	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107942
+
+ANTHC 20100 - The Middle East: Societies and Cultures	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107943
+
+ANTHC 20300	['plurdiv_b']
+
+ANTHC 20400 - East Asia: Societies and Cultures	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107944
+
+ANTHC 21100 - Native North America: Societies and Cultures	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107945
+
+ANTHC 21300 - Latin America: Societies and Cultures	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107946
+
+ANTHC 21400 - The Caribbean: Societies and Cultures	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107947
+
+ANTHC 21500 - The Anthropology of Black America (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107948
+
+ANTHC 21800 - The Anthropology of the Civil Rights Movement in the U.S.	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107949
+
+ANTHC 22600 - Archaeology of Africa	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107950
+
+ANTHC 227@	['plurdiv_d']
+
+ANTHC 22800 - Archaeology of the Near East to 2000 BC	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107952
+
+ANTHC 301@	['plurdiv_c']
+
+ANTHC 30300	['plurdiv_a']
+
+ANTHC 30400	['plurdiv_a']
+
+ANTHC 30500	['plurdiv_a']
+
+ANTHC 30700 - Anthropology of Religion	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107962
+
+ANTHC 30800 - Human Ecology	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107963
+
+ANTHC 30900 - Countryside and City: Comparative Perspectives	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107964
+
+ANTHC 31000 - Politics and Power in Anthropological Perspective	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107965
+
+ANTHC 31200 - Anthropological Approaches to Sexuality	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107967
+
+ANTHC 31800 - History of Anthropological Theory	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107972
+
+ANTHC 32076 - Language, Sex and Gender	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107974
+
+ANTHC 32089 (ANTHC 32000) - Problems in Anthropology	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107973
+
+ANTHC 32200 - Family and Household in Anthropology and History	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107976
+
+ANTHC 32600 - Rise of Old and New World Civilizations	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107978
+
+ANTHP 10100	['rc_sci']
+
+ANTHP 10200	['rc_sci']
+
+ANTHP 10500 - The Human Species	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107993
+
+ARTH 20500 - Egyptian Art	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108041
+
+ARTH 21500 - Greek Art	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108042
+
+ARTH 21600 - Roman Art	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108043
+
+ARTH 22100 - Later Medieval Art	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108045
+
+ARTH 22500 - Art of Early Renaissance	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108046
+
+ARTH 22700 - Northern Renaissance Art	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108047
+
+ARTH 23000 - Art of High Renaissance and Later 16th Century in Italy	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108048
+
+ARTH 23500 - Southern Baroque Art	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108049
+
+ARTH 24000 - Baroque Art of Northern Europe	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108050
+
+ARTH 24300 - Century Art	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108051
+
+ARTH 24400 - 1848	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108052
+
+ARTH 24500 - 1910)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108053
+
+ARTH 24600 - 1900	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108054
+
+ARTH 24900 - Century Art I	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108055
+
+ARTH 25000 - Century Art II	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108056
+
+ARTH 25300 - Medieval Architecture	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108059
+
+ARTH 25400 - Classical	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108060
+
+ARTH 25500 - 1950)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108061
+
+ARTH 26000 - Islamic Art and Architecture	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108062
+
+ARTH 26300 - Art of East Asia: Painting and Calligraphy	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108064
+
+ARTH 27000 - Art of Africa and Oceania	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108065
+
+ARTH 311@	['plurdiv_d']
+
+ARTH 321@	['plurdiv_d']
+
+ARTH 331@	['plurdiv_d']
+
+ARTH 341@	['plurdiv_d']
+
+ARTH 360@	['plurdiv_d']
+
+ARTH 361@	['plurdiv_a']
+
+ARTH 37050	['plurdiv_d']
+
+ARTH 370@	['plurdiv_d']
+
+ARTH 371@	['plurdiv_a']
+
+ARTH 39957	['plurdiv_d']
+
+ARTH 39979	['plurdiv_d']
+
+ASIAN 21000 - Asians in the U.S.	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108105
+
+ASIAN 210@	['plurdiv_b']
+
+ASIAN 22001 - Asian American Women Writers	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108106
+
+ASIAN 22002	['plurdiv_c']
+
+ASIAN 22005 - South Asian Women’s Literature	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108108
+
+ASIAN 220@	['plurdiv_b']
+
+ASIAN 22100 - Introduction to Writing About Asian American Literature (W)	['rc_eng_comp']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110279
+
+ASIAN 230@	['plurdiv_b']
+
+ASIAN 320@	['plurdiv_b']
+
+ASIAN 330@	['plurdiv_b']
+
+ASIAN 340@	['plurdiv_b']
+
+ASIAN 351@	['plurdiv_b']
+
+ASIAN 39010	['plurdiv_a']
+
+ASIAN 39011	['plurdiv_c']
+
+ASIAN 390@	['plurdiv_b']
+
+ASTRO 10200 - Laboratory Explorations in Astronomy	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110129
+
+BIOL 10000	['rc_sci']
+
+BIOL 10200	['rc_sci']
+
+BIOL 10500 - Introduction to Genome Biology	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110126
+
+BIOL 10700 - The Human Barcode: Biology and Genetics of Personal Identification	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110262
+
+BIOL 12500	['rc_sci']
+
+BIOL 15000	['rc_sci']
+
+CHEM 10000	['rc_sci']
+
+CHEM 10100 - Inquiries into the Nature of Matter	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108180
+
+CHEM 10200	['rc_sci']
+
+CHEM 10300	['rc_sci']
+
+CHEM 10400	['rc_sci']
+
+CHEM 10600	['rc_sci']
+
+CHEM 11100	['rc_sci']
+
+CHEM 11200	['rc_sci']
+
+CHIN 251@	['fcc_ind']
+
+CHIN 30600 - century Chinese Literature	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108230
+
+CHIN 30700 - Classical Chinese Poetry	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108231
+
+CHIN 35500 - Classical Chinese Fiction in English Translation (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108232
+
+CHIN 35700 - Chinese Poetry in English Translation (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108233
+
+CLA 11000 - The Greek and Latin Roots of English	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108239
+
+CLA 20200 - Hellenistic Civilization (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108241
+
+CLA 20400 - Introduction to Classical, Near Eastern, and Egyptian Archaeology (W)	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108243
+
+CLA 22000 - Aegean Archaeology (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108245
+
+CLA 22100 - Greek Archaeology (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108246
+
+CLA 22200 - Roman Archaeology I: Etruscans, Monarchy, Republic (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108247
+
+CLA 22500 - Archaeology of Egypt (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108248
+
+CLA 22700 - Archaeology of Eastern Mediterranean (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108249
+
+CLA 25400 - The Ancient Novel in Translation (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108254
+
+CLA 30200 - Comparative Backgrounds of Classical Mythology (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108255
+
+CLA 30400 - Pagans and Christians (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108258
+
+CLA 30500 - Women and Slaves in Classical Antiquity (W)	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108259
+
+CLA 30653 (CLA 30600) - Special Studies in Ancient Greek Culture	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108260
+
+CLA 30700 - Special Studies in Ancient Roman Culture	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108261
+
+CLA 31000 - Ancient Sports and Spectacles (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108263
+
+CLA 32200 - Archaeology of Mesopotamia and Iran (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108264
+
+CLA 32300 - Archaeology of Anatolia (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108265
+
+COMPL 32058 (COMPL 32000) - Comparative Studies in Prose Fiction	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108300
+
+COMPL 33051 (COMPL 33000) - Comparative Studies in Drama	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108302
+
+COMPL 33151 (COMPL 33100) - Comparative Studies in Drama	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108303
+
+COMPL 38003 (COMPL 38000) - Selected Topics in Comparative Literature	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108310
+
+COMPL 38057 (COMPL 38000) - Selected Topics in Comparative Literature	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108310
+
+COMPL 38082 (COMPL 38000) - Selected Topics in Comparative Literature	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108310
+
+COMPL 38089 (COMPL 38000) - Selected Topics in Comparative Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108310
+
+COMPL 38169 (COMPL 38100) - Selected Topics in Comparative Literature	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108311
+
+DAN 10200 - Dance, Dancers and the Audience	['fcc_creative']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108360
+
+DAN 252@	['plurdiv_a']
+
+DAN 352@	['plurdiv_a']
+
+ECO 33000 - Economic Development	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108406
+
+ECO 34500 - Women and Men in the Labor Market	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108411
+
+ECO 35000 - Comparative Economic Systems	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108413
+
+EDUC 25000 - Introduction to Urban Education: Topics and Issues around Diversity and Equity (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110353
+
+ENGL 12000 - Expository Writing	['rc_eng_comp']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108446
+
+ENGL 22000 - Introduction to Writing about Literature (W)	['rc_eng_comp']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108449
+
+ENGL 25054 (ENGL 25000) - Topics in Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25055 (ENGL 25000) - Topics in Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25059 (ENGL 25000) - Topics in Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25060 (ENGL 25000) - Topics in Literature	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25067 (ENGL 25000) - Topics in Literature	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25072 (ENGL 25000) - Topics in Literature	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25073 (ENGL 25000) - Topics in Literature	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25075 (ENGL 25000) - Topics in Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25080 (ENGL 25000) - Topics in Literature	['plurdiv_b', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25085 (ENGL 25000) - Topics in Literature	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25088 (ENGL 25000) - Topics in Literature	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25089 (ENGL 25000) - Topics in Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25092 (ENGL 25000) - Topics in Literature	['plurdiv_b', 'plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 25096 (ENGL 25000) - Topics in Literature	['plurdiv_b', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108450
+
+ENGL 250@	['fcc_creative']
+
+ENGL 251@	['fcc_creative']
+
+ENGL 25300	['plurdiv_d']
+
+ENGL 254@	['plurdiv_d']
+
+ENGL 25550 (ENGL 25500) - European Literary Traditions (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108453
+
+ENGL 25552 (ENGL 25500) - European Literary Traditions (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108453
+
+ENGL 255@	['plurdiv_a']
+
+ENGL 256@	['plurdiv_b']
+
+ENGL 25850 (ENGL 25800) - Topics in Literature by Women (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108455
+
+ENGL 25851 (ENGL 25800) - Topics in Literature by Women (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108455
+
+ENGL 25852 (ENGL 25800) - Topics in Literature by Women (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108455
+
+ENGL 25856 (ENGL 25800) - Topics in Literature by Women (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108455
+
+ENGL 258@	['plurdiv_c']
+
+ENGL 30200 - Introduction to Literary Analysis (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108458
+
+ENGL 30300 - Western Literary Backgrounds of British and American Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108459
+
+ENGL 30800 - Fiction I	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108462
+
+ENGL 31669 (ENGL 31600) - Workshop in Poetry II	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108467
+
+ENGL 31755 (ENGL 31700) - European Literary Traditions (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108468
+
+ENGL 317@	['plurdiv_a']
+
+ENGL 318@	['plurdiv_b']
+
+ENGL 319@	['plurdiv_c']
+
+ENGL 32000 - Ethnic American Literature (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108471
+
+ENGL 321@	['plurdiv_b']
+
+ENGL 322@	['plurdiv_c']
+
+ENGL 32358 (ENGL 32300) - Topics in Asian American Literature	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108474
+
+ENGL 323@	['plurdiv_b']
+
+ENGL 32400 - Topics in Native American Literature	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108475
+
+ENGL 32500 - Colonial Literature in English (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108476
+
+ENGL 326@	['plurdiv_b']
+
+ENGL 32700 - Topics in Caribbean Literature (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108478
+
+ENGL 33360 (ENGL 33300) - Topics in Language and Linguistics	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108483
+
+ENGL 33500 - Chaucer	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108485
+
+ENGL 33900 - Survey of British Literature II: The Eighteenth Century to the Present	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108489
+
+ENGL 34700 - Language and Ethnicity	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108494
+
+ENGL 35100 - The Age of Elizabeth I	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108497
+
+ENGL 35200 - Shakespeare Survey	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108498
+
+ENGL 35300 - Shakespeare I	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108499
+
+ENGL 35400 - Shakespeare II	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108500
+
+ENGL 36000 - The 17th Century	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108503
+
+ENGL 36100 - Milton	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108504
+
+ENGL 36200 - English Drama of Restoration and 18th Century	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108505
+
+ENGL 36400 - The Age of Satire	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108507
+
+ENGL 36500 - The Later 18th Century	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108508
+
+ENGL 36800 - The 18th Century English Novel	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108509
+
+ENGL 36900 - The 19th Century English Novel	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108510
+
+ENGL 37200 - Romantic Poetry	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108512
+
+ENGL 37300 - Victorian Literature (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108513
+
+ENGL 37400 - 20th and 21st Century British and Irish Poetry	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108514
+
+ENGL 37600 - 20th and 21st Century British and Irish Fiction	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108516
+
+ENGL 37800 - 20th and 21st Century British and Irish Drama	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108518
+
+ENGL 38000 - Irish Literary Renaissance	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108520
+
+ENGL 38649 (ENGL 38600) - Topics in British and American Literature	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108525
+
+ENGL 38650 (ENGL 38600) - Topics in British and American Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108525
+
+ENGL 38652 (ENGL 38600) - Topics in British and American Literature	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108525
+
+ENGL 38655 (ENGL 38600) - Topics in British and American Literature	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108525
+
+ENGL 38663 (ENGL 38600) - Topics in British and American Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108525
+
+ENGL 38669 (ENGL 38600) - Topics in British and American Literature	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108525
+
+ENGL 38673 (ENGL 38600) - Topics in British and American Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108525
+
+ENGL 38677 (ENGL 38600) - Topics in British and American Literature	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108525
+
+ENGL 38763 (ENGL 38700) - Topics in British and/or Irish Fiction	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108526
+
+ENGL 38954 (ENGL 38900) - One Major Writer (W)	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108528
+
+ENGL 38955 (ENGL 38900) - One Major Writer (W)	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108528
+
+ENGL 38956 (ENGL 38900) - One Major Writer (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108528
+
+ENGL 38957 (ENGL 38900) - One Major Writer (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108528
+
+ENGL 38958 (ENGL 38900) - One Major Writer (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108528
+
+ENGL 38959 (ENGL 38900) - One Major Writer (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108528
+
+ENGL 38960 (ENGL 38900) - One Major Writer (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108528
+
+ENGL 38967 (ENGL 38900) - One Major Writer (W)	['plurdiv_b', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108528
+
+ENGL 39053 (ENGL 39000) - Topics in 20th Century Literature (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108529
+
+ENGL 39055 (ENGL 39000) - Topics in 20th Century Literature (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108529
+
+ENGL 39861 (ENGL 39800) - Topics in American Fiction	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108536
+
+ENGL 39961 (ENGL 39900) - Genre Literature (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108537
+
+ENGL 39962 (ENGL 39900) - Genre Literature (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108537
+
+FILM 21100 - 1942	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108551
+
+FILM 21200 - Film History II: Since 1942	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108552
+
+FILM 21344 - Israeli Cinema	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108555
+
+FILM 21354 (FILM 21300) - National Cinema	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108553
+
+FILM 21355 - National Cinema: Asian Cinema	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108557
+
+FILM 213@	['plurdiv_d']
+
+FILM 21451 (FILM 21400) - Multicultural Perspectives in Cinema	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108558
+
+FILM 21462 (FILM 21400) - Multicultural Perspectives in Cinema	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108558
+
+FILM 21500 - Women and Film	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108559
+
+FILM 22251 (FILM 22200) - Topics in Genre Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108560
+
+FILM 22252 - Topics in Genre Studies: “The Woman’s Film” of the 1940s	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108561
+
+FILM 223@	['plurdiv_c']
+
+FILM 23200 - Experimental Film and Video	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108565
+
+FILM 26900	['plurdiv_c', 'plurdiv_a']
+
+FILM 29764	['plurdiv_d']
+
+FILM 29953 (FILM 29900) - Special Topics in Film	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108566
+
+FILM 31500 - Nonfiction Film and Video	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108567
+
+FILM 32200 - Contemporary Film Theory	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108568
+
+FILM 32700 - Representations of Race and Ethnicity in U.S. Media	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108573
+
+FILM 32800 - Images of Resistance in the Developing World	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108574
+
+FREN 25100 - French Literature and the Arts	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108617
+
+FREN 25300 - Modern French Theatre: Theory and Practice	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108619
+
+FREN 25400 - Film and the French Novel	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108620
+
+FREN 25900 - French Theatre in Translation	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108625
+
+FREN 26000 - 1900)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108626
+
+FREN 26100 - Present)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108627
+
+FREN 26200 - Perspectives on Women in French Literature	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108628
+
+FREN 27500 - Introduction to French Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108629
+
+FREN 33500 - French Culture I	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108633
+
+FREN 33600 - French Culture II	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108634
+
+FREN 34100 - Survey of French Literature from the Middle Ages to the End of the 17th Century	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108636
+
+FREN 34200 - Survey of French Literature from the 18th Century to the Modern Period	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108637
+
+FREN 34300 - Medieval and Renaissance French Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108638
+
+FREN 34400 - 17th Century French Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108639
+
+FREN 34600 - 18th Century French Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108640
+
+FREN 34800 - 1850)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108641
+
+FREN 34900 - 1900)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108642
+
+FREN 35000 - 1950)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108643
+
+FREN 35100 - present)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108644
+
+FREN 36000 - French Literature: Special Topics	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108646
+
+FREN 36009 (FREN 36000) - French Literature: Special Topics	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108646
+
+FREN 36100 - Middle Ages and the Renaissance: Special Topics	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108647
+
+FREN 36200 - The 17th Century: Special Topics	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108648
+
+FREN 36300 - The 18th Century: Special Topics	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108649
+
+FREN 36400 - The 19th Century: Special Topics	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108650
+
+FREN 36500 - The 20th Century: Special Topics	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108651
+
+FREN 366@	['plurdiv_d']
+
+FREN 37500 - Seminar in French Literary History	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108653
+
+GEOG 15000 - World Regional Geography	['plurdiv_a', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108658
+
+GEOG 24100 - Population Geography	['plurdiv_b', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108665
+
+GEOG 27000	['plurdiv_a']
+
+GEOG 27100	['plurdiv_a']
+
+GEOG 27400	['plurdiv_a']
+
+GEOG 27500	['plurdiv_a']
+
+GEOG 27700	['plurdiv_a']
+
+GEOG 27800	['plurdiv_a', 'plurdiv_d']
+
+GEOG 34200 - Geography of International Migration and Ethnicity	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108681
+
+GEOG 37000 - Geography of Sustainable Development in Developing Countries	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108686
+
+GEOG 37100 - Rural Water Supply in Developing Regions	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108687
+
+GEOG 38389 (GEOG 38300) - Special Topics in Geography	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108691
+
+GEOL 10100 - Introductory Geology Lab	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110130
+
+GERMN 24000 - German Thought and Culture: A Survey (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108729
+
+GERMN 32000 - Studies in German Literature and Language	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108735
+
+GERMN 32100 - Individual and Society in Modern German Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108736
+
+GERMN 32200 - German Civilization	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108737
+
+GERMN 32300 - Women in German Literature	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108738
+
+GERMN 32700 - Modern Swiss Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108739
+
+GERMN 32800 - German Children’s and Adolescent Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108740
+
+GERMN 33400 - The German Short Story and Novelle	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108741
+
+GERMN 33900 - German Drama from Naturalism to Present	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108744
+
+GERMN 34100 - German Drama from Age of Goethe to Naturalism	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108745
+
+GERMN 34300 - German Literature from Its Origins to the Age of Goethe	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108747
+
+GERMN 34400 - Readings in Classical Period of German Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108748
+
+GERMN 34500 - Literature of Weimar Republic	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108749
+
+GERMN 34600 - German Literature of the 1930s and 1940s	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108750
+
+GERMN 34800 - 1990)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108752
+
+GERMN 34900	['plurdiv_d']
+
+GERMN 35000 - Austrian Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108754
+
+GERMN 35300 - Goethe’s Faust	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108755
+
+GERMN 35900 - German Literary Seminar	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108756
+
+GERMN 37200 - Germany in the Twenties (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108768
+
+GERMN 37300 - Jewish Love Stories in Literature and Film after 1945 (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108769
+
+GERMN 37400 - Masterpieces of German Literature in English Translation (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108770
+
+HEBR 10100 - Elementary Hebrew I	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108811
+
+HEBR 10500 - Elementary Biblical Hebrew I	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108814
+
+HEBR 21060 (HEBR 21000) - Selected Studies in Hebrew Literature in Translation	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108820
+
+HEBR 21400 - Maimonides’  Guide to the Perplexed	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108823
+
+HEBR 21500 - Hebraic and Judaic Culture and Thought in the Medieval Islamic World	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108824
+
+HEBR 21800 - Masterpieces of Yiddish Literature in Translation (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108825
+
+HEBR 22000 - Israeli Cinema	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108826
+
+HEBR 28400 - Images of Women in the Old Testament, in Translation	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108835
+
+HEBR 28600 - Ancient Near Eastern Literature and the Bible	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108837
+
+HEBR 28800 - Ancient Hebraic Folklore	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108839
+
+HEBR 29400 - Job, Ecclesiastes and the Human Predicament (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108844
+
+HEBR 29600 - The Dead Sea Scrolls in English (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108848
+
+HEBR 31000 - Modern Hebrew Literature I	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108849
+
+HEBR 31500 - Biblical Literature: Pentateuch	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108851
+
+HEBR 31600 - Biblical Literature: Historical Books	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108852
+
+HEBR 31700 - Biblical Literature: Prophetic Books	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108853
+
+HEBR 31800 - Biblical Literature: Hagiographa	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108854
+
+HEBR 32100 - Talmudic Literature	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108856
+
+HEBR 32200 - Medieval Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108857
+
+HEBR 32300 - Poetry of the Modern Hebrew Renaissance Period	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108858
+
+HEBR 32400 - The Modern Hebrew Essay	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108859
+
+HIST 11200 - World History from 1500 to the Present	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108879
+
+HIST 15100 - The United States from the Colonial Era to the Civil War (W)	['fcc_us']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108882
+
+HIST 15200 - The United States from the Civil War Era to the Present (W)	['fcc_us']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108883
+
+HIST 20900	['plurdiv_d']
+
+HIST 21100 - Medieval Civilization (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108887
+
+HIST 25004 (HIST 25000) - Historical Issues (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108889
+
+HIST 27650 - Middle Eastern History from the Beginning of Islam to 1800 (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108892
+
+HIST 27651 - The Modern Middle East from 1800 to the Present (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108893
+
+HIST 28800 - History of Africa to the 19th Century	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108896
+
+HIST 28900 - Africa in the 19th and 20th Centuries (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108897
+
+HIST 30200 - Greek History	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108902
+
+HIST 30300 - Roman History	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108903
+
+HIST 30400	['plurdiv_c', 'plurdiv_d']
+
+HIST 30500 - The Age of the Crusades	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108904
+
+HIST 31000 - Jewish History in the Medieval and Early Modern Periods	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108906
+
+HIST 31100 - Europe in the Early Middle Ages	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108907
+
+HIST 31400 - Ancient and Medieval Christianity (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108910
+
+HIST 31700 - History of the American City	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108914
+
+HIST 31800 - History of the American Working Class (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108915
+
+HIST 31900 - Jewish History in the Medieval and Early Modern Periods (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108916
+
+HIST 32000 - Jewish History in the Modern World (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108918
+
+HIST 32400 - Europe in the Age of Renaissance and Reformation (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108920
+
+HIST 32900 - History of European Diplomacy	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108924
+
+HIST 33000 - Social and Economic History of Modern Europe	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108925
+
+HIST 33600 - Century Germany (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110199
+
+HIST 33800 - History of Italy (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108931
+
+HIST 34120 (HIST 34100) - Topics in History (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108932
+
+HIST 34251 - Britain Since 1689	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108936
+
+HIST 34500	['plurdiv_c', 'plurdiv_d']
+
+HIST 35700 - Jewish History (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108943
+
+HIST 35800 - 20th Century United States (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108944
+
+HIST 35900 - Immigration and Ethnicity in the United States	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108945
+
+HIST 36000	['plurdiv_d']
+
+HIST 36100 - America and the World in the 20th Century	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108946
+
+HIST 36300 - American Cultural History	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108948
+
+HIST 36400 - American Constitutional History, 1783 to 1900	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108949
+
+HIST 36600 - Role of Women in American History	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108951
+
+HIST 36700 - Civil War and Reconstruction	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108952
+
+HIST 37300 - History of the Ottoman Empire (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108955
+
+HIST 37400 - Russia to the 20th Century	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108956
+
+HIST 37500 - Late Imperial Russia and the Soviet Union	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108957
+
+HIST 37900 - Japan to 1800	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108961
+
+HIST 38000 - Japan since 1800	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108962
+
+HONS 20139 (HONS 20100) - Sophomore Honors Colloquium (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108977
+
+HONS 20154 (HONS 20100) - Sophomore Honors Colloquium (W)	['plurdiv_a', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108977
+
+HONS 20177 (HONS 20100) - Sophomore Honors Colloquium (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108977
+
+HONS 20181 (HONS 20100) - Sophomore Honors Colloquium (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108977
+
+HONS 30167 (HONS 30100) - Level Honors Colloquium (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108978
+
+HONS 30179 (HONS 30100) - Level Honors Colloquium (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108978
+
+HONS 30184 (HONS 30100) - Level Honors Colloquium (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108978
+
+HONS 30185 (HONS 30100) - Level Honors Colloquium (W)	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108978
+
+HR 20000 - Introduction to Human Rights: History, Discourse, Practice (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108981
+
+HUM 11000	['fcc_ind']
+
+HUM 20100 - Explorations in the Arts	['fcc_creative']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108988
+
+ITAL 26000 - Modern Italian Short Story (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108999
+
+ITAL 27600 - Dante’s Divine Comedy in English (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109001
+
+ITAL 33400 - Italian Civilization in the Baroque, in English	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109007
+
+ITAL 33700 - Italian Women Writers from the Middle Ages to the 18th Century, in English	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109010
+
+ITAL 33800 - 19th and 20th Century Italian Women Writers, in English	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109011
+
+ITAL 33900 - Italian American Women Writers and Artists: Issues of Identity (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109012
+
+ITAL 34200 - Introduction to Italian Literature from the 16th Century to the Present	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109014
+
+ITAL 34300 - Dante’s Vita Nuova and Inferno	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109015
+
+ITAL 34400 - Dante’s Purgatorio and Introduction to Paradiso	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109016
+
+ITAL 34500 - Dante’s Paradiso and Major Prose Works	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109017
+
+ITAL 34600 - Petrarch, Boccaccio and the Literature of Humanism	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109018
+
+ITAL 34700 - 16th Century Italian Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109019
+
+ITAL 34800 - 17th and 18th Century Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109020
+
+ITAL 34900 - The Modern Italian Lyric	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109021
+
+ITAL 35000 - The Modern Italian Novel	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109022
+
+JPN 25100 - Japanese Culture Before 1600	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109040
+
+JPN 25200 - Japanese Culture Since 1600	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109041
+
+JPN 261@	['plurdiv_a']
+
+JS 150@	['plurdiv_a']
+
+JS 250@	['plurdiv_a']
+
+JS 350@	['plurdiv_a']
+
+MEDIA 18000 - MEDIA 18000	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109122
+
+MEDIA 21100 - News Literacy in a Digital Age (W)	['rc_eng_comp']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110280
+
+MEDIA 296@	['plurdiv_c']
+
+MEDIA 29853 - The Horror Film	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109129
+
+MEDIA 29975 (MEDIA 29900) - Special Topics in Media Studies	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109130
+
+MEDIA 32700 - Representations of Race and Ethnicity in U.S. Media	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109135
+
+MEDIA 32800 - Images of Resistance in the Developing World	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109136
+
+MEDIA 38400 - Women and Media	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109147
+
+MEDIA 39500 - Mass Media in Developing Countries	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109155
+
+MEDIA 39921 (MEDIA 39900) - Special Issues in Media Studies	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109159
+
+MHC 10000 - MHC Seminar 1, The Arts in New York City (W)	['fcc_creative']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109203
+
+MUSHL 20500 - Music History I	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109230
+
+MUSHL 20600 - Music History II (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109231
+
+MUSHL 21000 - Music for the Piano (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109232
+
+MUSHL 21200 - Masterpieces of Opera (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109233
+
+MUSHL 21700 - History of Jazz (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109234
+
+MUSHL 22100 - Black Music in the Americas (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109235
+
+MUSHL 24000 - Music of the Caribbean and Latin America (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109238
+
+MUSHL 24100 - Music of Asia (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109239
+
+MUSHL 24300 - Music of the Middle East	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109240
+
+MUSHL 24500 - Music of Africa (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109241
+
+MUSHL 25000 - Women and Music (W)	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109242
+
+MUSHL 26176 (MUSHL 26100) - Special Topics in History and Literature of Music (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109244
+
+MUSHL 30500 - Music History III (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109246
+
+MUSHL 30600 - Music History IV (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109247
+
+MUSHL 35200 - Introduction to Ethnomusicology I (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109248
+
+MUSHL 35300 - Introduction to Ethnomusicology II (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109249
+
+MUSHL 35400	['plurdiv_d']
+
+MUSHL 35500	['plurdiv_d']
+
+MUSHL 35700	['plurdiv_d']
+
+MUSHL 35800	['plurdiv_d']
+
+MUSHL 35900	['plurdiv_d']
+
+MUSTH 10100 - Music Theory Fundamentals	['fcc_creative']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109288
+
+NURS 34000 - Women’s Health	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109334
+
+NURS 34600 - Death and Dying	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109338
+
+NURS 35100 - Gender, Science and Technology	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109340
+
+NURS 38400	['plurdiv_b']
+
+PGEOG 13000	['rc_sci']
+
+PHILO 10100 - Introduction to Philosophy	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109380
+
+PHILO 10400 - Introduction to Ethics and Moral Judgment	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109382
+
+PHILO 10600 - Philosophy, Politics and Society	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109383
+
+PHILO 20100	['plurdiv_d']
+
+PHILO 20300	['plurdiv_d']
+
+PHILO 21200 - Classical Greek Philosophy: Plato and Aristotle (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109389
+
+PHILO 21400 - Medieval Philosophy (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109390
+
+PHILO 21500 - Foundations of Modern Philosophy (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109391
+
+PHILO 21600	['plurdiv_c']
+
+PHILO 21700	['plurdiv_d']
+
+PHILO 22100 - Indian Philosophy (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109396
+
+PHILO 22300 - Neoplatonism (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109397
+
+PHILO 22500 - American Philosophy (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109398
+
+PHILO 22800 - Existentialism (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109400
+
+PHILO 23000 - Feminist Philosophy (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109401
+
+PHILO 25600 - Philosophy and Literature (W)	['fcc_creative']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109408
+
+PHILO 31800 - Revolutions in Modern Philosophy (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109393
+
+PHILO 31900 - Marxist and Critical Theory (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109395
+
+PHILO 34700 - Critical Philosophy of Race (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110328
+
+PHILO 36300 - Feminist and Social Epistemologies (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110329
+
+PHYS 10100 - Basic Concepts of Physics with Laboratory Exercises	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109455
+
+PHYS 11000	['rc_sci']
+
+PHYS 11100	['rc_sci']
+
+PHYS 12000	['rc_sci']
+
+PHYS 12100	['rc_sci']
+
+PN 25100	['fcc_ind']
+
+POL 250@	['plurdiv_d']
+
+POLSC 10000 - Introduction to Politics: Democracy, Anarchy and the State (W)	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109507
+
+POLSC 11000 - American Government: A Historical Introduction (W)	['fcc_us']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109508
+
+POLSC 11500 - Introduction to International Politics (W)	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=124239
+
+POLSC 20100 - Ancient to Early Modern Political Thought (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109514
+
+POLSC 20454 (POLSC 20400) - Contemporary Issues in Political Theory	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109517
+
+POLSC 20900 - Women and Gender in Western Political Thought (W)	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109520
+
+POLSC 21800 - Women and Politics (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109526
+
+POLSC 21900 - Women and the Law (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109527
+
+POLSC 22100 - U.S. Immigration Policy (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109528
+
+POLSC 22800 - Protest Movements in American Politics (W)	['plurdiv_b', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109532
+
+POLSC 25000 - Comparing Countries (W)	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109539
+
+POLSC 250@	['plurdiv_a']
+
+POLSC 25200	['plurdiv_a']
+
+POLSC 25300 - Government and Politics in Latin America (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109542
+
+POLSC 25400 - Government and Politics in Western Europe (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109543
+
+POLSC 25500 - Government and Politics of Japan and Korea (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109544
+
+POLSC 25600	['plurdiv_a']
+
+POLSC 25700 - Government and Politics of China (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109546
+
+POLSC 26000 - African Politics through African Films (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109547
+
+POLSC 26200 - Government and Politics in Central America (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109549
+
+POLSC 26300 - Government and Politics in the Middle East (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109550
+
+POLSC 26500 - Government and Politics in Eastern Europe (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109552
+
+POLSC 26700 - The Politics of Southern Africa (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109553
+
+POLSC 27000 - International Relations: Conceptual Foundations and Current Issues (W)	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109555
+
+POLSC 27202 (POLSC 27200) - Contemporary Issues in Comparative Politics	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109558
+
+POLSC 28000 - Women, War and Peace (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109565
+
+POLSC 30900 - Feminist Political Theory (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109579
+
+POLSC 31701 (POLSC 31700) - Contemporary Issues in American Politics	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109583
+
+POLSC 32000 - Ethnic Politics (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109584
+
+POLSC 32200 - Social and Economic Policies in Western Europe and the United States (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109586
+
+POLSC 353@	['plurdiv_a']
+
+POLSC 35600 - India’s Democratic Experiment (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109597
+
+POLSC 36000 - Democracy & Development in a Globalizing World (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109598
+
+POLSC 37800 - Russian National Interest: Past and Present (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109606
+
+POLSC 38000 - European Security (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109608
+
+POLSC 38100 - East Asia in World Politics (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109609
+
+PSYCH 17000 - Psychology of Human Sexuality	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109620
+
+PSYCH 19000 - Development of Gender Roles	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109622
+
+PSYCH 23500 - The Psychology of Women	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109634
+
+PSYCH 24500 - History of Psychology (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109638
+
+PSYCH 30900 - Behavioral Neuroendocrinology	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109647
+
+REL 11000 - Nature of Religion (W)	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109684
+
+REL 11100 - Approaches to Religion (W)	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109685
+
+REL 20900 - Religion and Human Rights (W)	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109691
+
+REL 21100 - The Sacred Sky:  Astrology in World Religions (W)	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109692
+
+REL 30700 - Religious Ideas in Modern Literature (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109705
+
+REL 30800 - Religion and the Arts (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109706
+
+REL 30900 - The Religious Meanings of Love and Sex (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109707
+
+REL 31000 - The Religious Meanings of Death (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109708
+
+REL 31100 - Women and Religion (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109709
+
+REL 31200 - Religion and Politics (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109710
+
+REL 31300 - Spirit and Nature (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109711
+
+REL 31500 - The Problem of Evil (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109714
+
+REL 31600 - Men and Religion (W)	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110192
+
+REL 32000 - Hinduism (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109715
+
+REL 32100 - Buddhism (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109716
+
+REL 32200 - Islam (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109717
+
+REL 32300 - Christianity (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109718
+
+REL 32400 - Islam and Buddhism (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109719
+
+REL 33000 - New Testament Religion (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109721
+
+REL 33300 - Christian Theology (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109722
+
+REL 33400 - Mysticism (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109723
+
+REL 33500 - Myth and Ritual (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109724
+
+REL 33600 - Zen (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109725
+
+REL 33700 - Sufism (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109726
+
+REL 34000 - Homosexuality in World Religions (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109727
+
+REL 39000 - Modern Theories of Religion (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109731
+
+RUSS 15500 - The Culture of Old Russia	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109738
+
+RUSS 15800 - Contemporary Russian Culture	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109741
+
+RUSS 25600 - Special Topics in Slavic Literatures and Cultures in English Translation	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109753
+
+RUSS 27100 - East European Cinema (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110196
+
+RUSS 29500 - The Vampire in Lore and Literature (W)	['fcc_creative']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109761
+
+RUSS 29600 - Vladimir Nabokov Between Two Cultures	['fcc_creative']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109762
+
+RUSS 29700 - The Russian Urban Novel in English Translation (W)	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109763
+
+RUSS 32100 - Russian Short Story and Novella	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109773
+
+RUSS 32200 - Classical Russian Poetry	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109774
+
+RUSS 32300 - Modern Russian Poetry	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109775
+
+RUSS 34100 - Tolstoy and Dostoevsky	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109778
+
+RUSS 34200 - Modern Russian Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109779
+
+RUSS 34300 - Russian Theater	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109780
+
+RUSS 34400 - The Silver Age of Russian Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109781
+
+RUSS 36000 - Russian Women Writers	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109782
+
+SOC 20100 - The Family	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109818
+
+SOC 21700 - Race and Ethnicity	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109826
+
+SOC 22100 - Classical Sociological Theory	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109829
+
+SOC 22506 (SOC 22500) - Seminar in Selected Problems of Sociology	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109831
+
+SOC 22507 (SOC 22500) - Seminar in Selected Problems of Sociology	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109831
+
+SOC 22508 (SOC 22500) - Seminar in Selected Problems of Sociology	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109831
+
+SOC 25700 - Sex and Gender Roles	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109841
+
+SOC 30700 - Migration	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109844
+
+SOC 36000	['plurdiv_c']
+
+SOC 36100 - Development and Globalization (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109867
+
+SPAN 26400 - Contemporary Spanish Literature in Translation	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109905
+
+SPAN 26500 - Don Quixote in English Translation	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109907
+
+SPAN 26900 - Spanish American Women’s Literature and Cinema (W)	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109908
+
+SPAN 27500 - Readings in Modern Spanish Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109910
+
+SPAN 33500 - Spanish Civilization	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109919
+
+SPAN 34100 - Introduction to Hispanic Literature I	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109921
+
+SPAN 34200 - Introduction to Hispanic Literature II	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109922
+
+SPAN 34300 - Spanish Literature of the Middle Ages	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109923
+
+SPAN 34500 - Spanish Drama of the Golden Age	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109924
+
+SPAN 34600 - Cervantes	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109925
+
+SPAN 34900 - Spanish Prose of the Golden Age	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109926
+
+SPAN 35000 - Spanish Poetry of the Golden Age	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109927
+
+SPAN 35300 - Spanish Neoclassicism and Romanticism	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109928
+
+SPAN 35500 - Spanish Literature from Realism to World War I	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109929
+
+SPAN 35700 - Early 20th Century Spanish Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109930
+
+SPAN 35800 - Civil War Spanish Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109931
+
+SPAN 37000 - Special Topics in Spanish Literature	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109939
+
+SPAN 37500 - Seminar in Spanish Literary History	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109943
+
+THEA 10100 - Introduction to Theatre	['fcc_creative']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109979
+
+THEA 21400 - Multicultural Perspectives in Theatrical Performance (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109985
+
+THEA 21500 - Black Theatre (W)	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109986
+
+THEA 29782 (THEA 29700) - Special Topics in Theatre	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110001
+
+THEA 32100 - Play Analysis (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110002
+
+THEA 32200 - Theatre Theory and Criticism (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110003
+
+THEA 33100 - Garde Theatre of the 20th Century (W)	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110006
+
+THEA 33200 - Theatre of Realism and Naturalism	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110007
+
+THEA 33300 - Alternative Performance	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110008
+
+THEA 36200 - Acting: Period Drama	['plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110013
+
+WGS 10000 - Introduction to Gender and Sexuality Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110052
+
+WGS 12100 - Public Speaking in Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110293
+
+WGS 15600	['plurdiv_c']
+
+WGS 17000	['plurdiv_c']
+
+WGS 19000	['plurdiv_c']
+
+WGS 20006 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20008 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20020 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20050 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20055 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20058 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_b', 'plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20059 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20065 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20067 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20068 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_b', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20070 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20073 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20074 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20077 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20081 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20082 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20085 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20086 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20089 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20092 (WGS 200XX) - Special Topics in Women and Gender Studies	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110049
+
+WGS 20100 - Classics in Feminist Thought (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110054
+
+WGS 20900	['plurdiv_c', 'plurdiv_d']
+
+WGS 21600 - Women Philosophers of the Past	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110056
+
+WGS 21900	['plurdiv_c']
+
+WGS 22252	['plurdiv_c']
+
+WGS 22300	['plurdiv_c']
+
+WGS 23000	['plurdiv_c']
+
+WGS 23500	['plurdiv_c']
+
+WGS 24400 - Transnational Feminisms	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110058
+
+WGS 25000	['plurdiv_c']
+
+WGS 25100	['plurdiv_c']
+
+WGS 25700	['plurdiv_c']
+
+WGS 25851 (WGS 25800) - Topics in Literature by Women (W)	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110059
+
+WGS 258@	['plurdiv_c']
+
+WGS 26000	['plurdiv_c']
+
+WGS 26100	['plurdiv_c']
+
+WGS 26200	['plurdiv_c']
+
+WGS 26900	['plurdiv_c', 'plurdiv_a']
+
+WGS 30001 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30003 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30006 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30021 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30022 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30024 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30033 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30036 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30048 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30050 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30051 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30053 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30055 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30063 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30064 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30065 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30069 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30072 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30073 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_b', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30076 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30078 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30080 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30084 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30085 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30087 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30092 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30094 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30095 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30098 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30099 (WGS 300XX) - Special Topics in Women and Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110050
+
+WGS 30100	['plurdiv_c']
+
+WGS 30500	['plurdiv_c', 'plurdiv_d']
+
+WGS 30900	['plurdiv_c']
+
+WGS 31851	['plurdiv_b']
+
+WGS 318@	['plurdiv_c']
+
+WGS 31954	['plurdiv_b']
+
+WGS 319@	['plurdiv_c']
+
+WGS 32900	['plurdiv_b', 'plurdiv_c']
+
+WGS 33600 - American Women Writers (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110061
+
+WGS 34500	['plurdiv_c']
+
+WGS 35100	['plurdiv_c']
+
+WGS 36100	['plurdiv_c']
+
+WGS 38400	['plurdiv_c']
+
+WGS 38700	['plurdiv_c']
+
+WGSA 20072	['plurdiv_c']
+
+WGSA 290@	['plurdiv_c']
+
+WGSC 290@	['plurdiv_c']
+
+WGSL 20600	['plurdiv_b']
+
+WGSL 29003 (WGSL 29000) - Special Topics in Labor, Migration, and Globalization	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110308
+
+WGSL 290@	['plurdiv_c']
+
+WGSL 30600 - Gender and Migration	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110079
+
+WGSP 290@	['plurdiv_c']
+
+WGSP 39800 - Community Leadership Seminar (W)	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110092
+
+WGSS 15000 - Introduction to LGBTQI Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110094
+
+WGSS 290@	['plurdiv_c']
+
+WGSS 29300 - Bathroom Politics	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110294
+
+WGST 290@	['plurdiv_c']
+
