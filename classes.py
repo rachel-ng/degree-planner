@@ -61,8 +61,13 @@ def fulfillments(cl_ind, d):
         lengths[fulfills[i]] += 1
     return fulfills, reqs 
 
-def seek(fulfills, reqs, course_desc, n, hardness, out):
-    good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n)}
+def seek(fulfills, reqs, course_desc, n, hardness, out, comp=">="):
+    print(comp)
+    if comp == ">=":
+        good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n)}
+    if comp == "==":
+        good = {i : reqs[i] for i in fulfills if fulfills[i] == int(n)}
+
     alph = sorted(good.keys())
     bb = ""
 
@@ -94,5 +99,8 @@ if __name__ == "__main__":
     desc = descriptions()
     ci, dct = courses_fulfill()
     fulfills, reqs = fulfillments(ci, dct)
-    seek(fulfills, reqs, desc, sys.argv[1], sys.argv[2], sys.argv[3])
-
+    if len(sys.argv) > 4:
+        seek(fulfills, reqs, desc, sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+    else:
+        seek(fulfills, reqs, desc, sys.argv[1], sys.argv[2], sys.argv[3])
+    print(sys.argv)
