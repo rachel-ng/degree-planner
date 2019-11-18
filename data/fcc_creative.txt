@@ -1,14 +1,14 @@
-ARB | 25000  or  25100  or  25400  or  
-ASIAN | 22500  or  
-DAN | 10200 or  23200  or  
-ENGL | 250@  or  251@  or  
-FILM | 10100  or  
-GERMN | 24100  or  
-HUM | 20100  or 
-MHC | 10000  or  
-MUSHL | 10100  or  10700  or  
-MUSTH | 10100  or  
-PHILO | 25600  or  
-RUSS | 25300  or  29500  or  29600  or  
-THEA | 10100  or  21100  or  21200  or 21300
+ARB | 25000 or 25100 or 25400 or 
+ASIAN | 22500 or 
+DAN | 10200 or 23200 or 
+ENGL | 250@ or 251@ or 
+FILM | 10100 or 
+GERMN | 24100 or 
+HUM | 20100 or 
+MHC | 10000 or 
+MUSHL | 10100 or 10700 or 
+MUSTH | 10100 or 
+PHILO | 25600 or 
+RUSS | 25300 or 29500 or 29600 or 
+THEA | 10100 or 21100 or 21200 or 21300
 

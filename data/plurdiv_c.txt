@@ -1,31 +1,32 @@
-AFPRL | 29016  or  29041  or  31800  or  31900  or  33600  or 
-ANTHC | 301@  or  31200  or  32076  or  32200  or  
-ASIAN | 22001  or  22002  or  22005 or  39011  or  
-CLA | 30500  or  
-COMPL | 38057  or  38169  or  
-ECO | 34500  or 
-ENGL | 25060  or  25067  or  25072  or  25073  or  25080  or  25085  or  25092  or  25096 or  25550  or  25850  or  258@  or  30800  or  31669  or  319@  or  322@  or  32358  or 38649  or  38652  or  38655  or  38677  or  38763  or  38954  or  38955  or  38967  or 39861  or  39961  or  39962  or  49481  or  49469  or  
-FILM | 21500  or  22251  or  22252 or  223@  or  26900  or  
-FREN | 26200  or  
-GEOG | 24100  or  38389  or  
-GERMN | 32300 or  33400  or  
-HEBR | 21060  or  28400  or  28400  or  45166  or  HIST 30400  or  34500 or  77454  or  
-HONS | 20139  or  30185  or  
-ITAL | 33700  or  33800  or  33900  or 
-MEDIA | 296@  or  29853  or  38400  or  
-MUSHL | 25000  or  26176  or  
-NURS | 34000  or 35100  or  
-PHILO | 21600  or  23000  or  36300  or  
-POLSC | 20900  or  20454  or  20900 or  21800  or  21900  or  28000  or  30900  or  48657  or  22800  or  
-PSYCH | 17000  or 19000  or  23500  or  30900  or  
-REL | 31100  or  31600  or  34000  or  
-RUSS | 15600  or 26000  or  36000  or  SOC 20100  or  25700  or  36000  or  
-SPAN | 26900  or 
-WGSA | 20072  or  290@  or  
-WGSC | 290@  or  
-WGSL | 30600  or  290@  or 
-WGSP | 290@  or  39800  or  
-WGSS | 15000  or  29300  or  290@  or  
-WGST |  290@  or 
-WGS |  10000  or  12100  or  15600  or  17000  or  19000  or  20006  or  20008  or  20020 or  20055  or  20058  or  20059  or  20065  or  20067  or  20068  or  20070  or  20073  or 20074  or  20077  or  20081  or  20082  or  20085  or  20086  or  20089  or  20100  or 20900  or  21600  or  21900  or  22252  or  22300  or  23000  or  23500  or  24400  or 25000  or  25100  or  25700  or  258@  or  26000  or  26100  or  26200  or  38700  or 26900  or  30001  or  30003  or  30006  or  30021  or  30022  or  30024  or  30033  or 30050  or  30051  or  30053  or  30055  or  30063  or  30064  or  30065  or  30069  or 30072  or  30073  or  30076  or  30078  or  30080  or  30084  or  30085  or  30087  or 30092  or  30094  or  30095  or  30098  or  30099  or  30100  or  30500  or  30900  or 318@  or  319@  or  32900  or  33600  or  34500  or  35100  or  36100  or  38400  or 40053  or  40054  or  40059 
+AFPRL | 29016 or 29041 or 31800 or 31900 or 33600 or 
+ANTHC | 301@ or 31200 or 32076 or 32200 or 
+ASIAN | 22001 or 22002 or 22005 or 39011 or 
+CLA | 30500 or 
+COMPL | 38057 or 38169 or 
+ECO | 34500 or 
+ENGL | 25060 or 25067 or 25072 or 25073 or 25080 or 25085 or 25092 or 25096 or 25550 or 25850 or 258@ or 30800 or 31669 or 319@ or 322@ or 32358 or 38649 or 38652 or 38655 or 38677 or 38763 or 38954 or 38955 or 38967 or 39861 or 39961 or 39962 or 49481 or 49469 or 
+FILM | 21500 or 22251 or 22252 or 223@ or 26900 or 
+FREN | 26200 or 
+GEOG | 24100 or 38389 or 
+GERMN | 32300 or 33400 or 
+HEBR | 21060 or 28400 or 28400 or 45166 or 
+HIST | 30400 or 34500 or 77454 or 
+HONS | 20139 or 30185 or 
+ITAL | 33700 or 33800 or 33900 or 
+MEDIA | 296@ or 29853 or 38400 or 
+MUSHL | 25000 or 26176 or 
+NURS | 34000 or 35100 or 
+PHILO | 21600 or 23000 or 36300 or 
+POLSC | 20900 or 20454 or 20900 or 21800 or 21900 or 28000 or 30900 or 48657 or 22800 or 
+PSYCH | 17000 or 19000 or 23500 or 30900 or 
+REL | 31100 or 31600 or 34000 or 
+RUSS | 15600 or 26000 or 36000 or SOC 20100 or 25700 or 36000 or 
+SPAN | 26900 or 
+WGSA | 20072 or 290@ or 
+WGSC | 290@ or 
+WGSL | 30600 or 290@ or 
+WGSP | 290@ or 39800 or 
+WGSS | 15000 or 29300 or 290@ or 
+WGST | 290@ or 
+WGS | 10000 or 12100 or 15600 or 17000 or 19000 or 20006 or 20008 or 20020 or 20055 or 20058 or 20059 or 20065 or 20067 or 20068 or 20070 or 20073 or 20074 or 20077 or 20081 or 20082 or 20085 or 20086 or 20089 or 20100 or 20900 or 21600 or 21900 or 22252 or 22300 or 23000 or 23500 or 24400 or 25000 or 25100 or 25700 or 258@ or 26000 or 26100 or 26200 or 38700 or 26900 or 30001 or 30003 or 30006 or 30021 or 30022 or 30024 or 30033 or 30050 or 30051 or 30053 or 30055 or 30063 or 30064 or 30065 or 30069 or 30072 or 30073 or 30076 or 30078 or 30080 or 30084 or 30085 or 30087 or 30092 or 30094 or 30095 or 30098 or 30099 or 30100 or 30500 or 30900 or 318@ or 319@ or 32900 or 33600 or 34500 or 35100 or 36100 or 38400 or 40053 or 40054 or 40059 
 
