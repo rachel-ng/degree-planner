@@ -1,15 +1,15 @@
-AFPRL | 18200 or  20100 or  20200 or  20900 or  21000 or  22200 or  24300 or  
-ANTHC | 12600 or  15100 or 
-ARB | 15000 or  25200 or  25300 or  25500 or  25600 or  25700 or  
-CHIN | 11100 or  11200 or  
-CLA | 10100 or  11000 or  20100or  20300 or  20400 or  
-FREN | 24100 or  24200 or 
-HEBR | 10100 or  10500 or  22100 or 22200 or  24000 or  25900 or  29000 or  29500  or  
-HIST | 11100 or  11200 or  12100 or  12200 or  20800 or  27700 or  27800 or  
-PHILO | 21900  or  
-POLSC | 10000 or  11500or  25000 or  27000 or  
-REL | 21100 or  25100 or  25200 or  25300 or  25400 or 25600 or  25700 or  25800 or  
-RUSS | 15700 or  25500 or  29300 or  29400 or  
+AFPRL | 18200  or  20100  or  20200  or  20900  or  21000  or  22200  or  24300  or  
+ANTHC | 12600  or  15100  or 
+ARB | 15000  or  25200  or  25300  or  25500  or  25600  or  25700  or  
+CHIN | 11100  or  11200  or  
+CLA | 10100  or  11000  or  20100 or  20300  or  20400  or  
+FREN | 24100  or  24200  or 
+HEBR | 10100  or  10500  or  22100  or 22200  or  24000  or  25900  or  29000  or  29500   or  
+HIST | 11100  or  11200  or  12100  or  12200  or  20800  or  27700  or  27800  or  
+PHILO | 21900   or  
+POLSC | 10000  or  11500 or  25000  or  27000  or  
+REL | 21100  or  25100  or  25200  or  25300  or  25400  or 25600  or  25700  or  25800  or  
+RUSS | 15700  or  25500  or  29300  or  29400  or  
 SPAN | 24100
 
 

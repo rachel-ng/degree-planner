@@ -1,8 +1,8 @@
-ANTHP |  10100 or  10200 or  10500 or  
+ANTHP |  10100  or  10200  or  10500  or  
 ASTRO |  10200  
-BIOL |  10000 or  10200 or  10500 or  10700 or  12500 or  15000 or  
-CHEM |  10000or  10100 or  10200 or  10300 or  10400 or 10600 or  11100 or  11200 or  
-GEOL |  10100 or  
-PGEOG |  13000 or  
-PHYS |  10100 or  11000 or 11100 or  12000 or  12100
+BIOL |  10000  or  10200  or  10500  or  10700  or  12500  or  15000  or  
+CHEM |  10000 or  10100  or  10200  or  10300  or  10400  or 10600  or  11100  or  11200  or  
+GEOL |  10100  or  
+PGEOG |  13000  or  
+PHYS |  10100  or  11000  or 11100  or  12000  or  12100
 
