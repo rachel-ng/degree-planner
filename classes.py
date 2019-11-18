@@ -56,6 +56,10 @@ for i in fulfills:
 good = {i : reqs[i] for i in fulfills if fulfills[i] >= 2}
 alph = sorted(good.keys())
 
+f = open("bestest_classes.txt", "w")
+
+bb = ""
+
 for i in alph: 
     l = i.split(" ")
     if int(l[1][0]) < 4: 
@@ -72,7 +76,10 @@ for i in alph:
         elif i != alt_name_2 and course_desc.get(alt_name_2):
             c += " (" + alt_name_2 + ") - " + course_desc.get(alt_name_2)[0]
             l += course_desc.get(alt_name_2)[1] + "\n"
+        bb += i + c + "\t" + str(good[i]) + l + "\n" 
         print(i + c + "\t" + str(good[i]) + l)
 
 
+f.write(bb)
+f.close()
         
