@@ -187,6 +187,7 @@ CLA 22100 - Greek Archaeology (W) *preview_course_nopop.php?catoid=39&coid=10824
 CLA 22200 - Roman Archaeology I: Etruscans, Monarchy, Republic (W) *preview_course_nopop.php?catoid=39&coid=108247
 CLA 22300 - Roman Archaeology II: The Archaeology of the Roman Empire *preview_course_nopop.php?catoid=39&coid=110224
 CLA 22500 - Archaeology of Egypt (W) *preview_course_nopop.php?catoid=39&coid=108248
+CLA 22600 - Archaeology of Western Mediterranean *preview_course_nopop.php?catoid=39&coid=130566
 CLA 22700 - Archaeology of Eastern Mediterranean (W) *preview_course_nopop.php?catoid=39&coid=108249
 CLA 32200 - Archaeology of Mesopotamia and Iran (W) *preview_course_nopop.php?catoid=39&coid=108264
 CLA 32300 - Archaeology of Anatolia (W) *preview_course_nopop.php?catoid=39&coid=108265
@@ -295,6 +296,7 @@ ASIAN 29000 - Asian American Studies Internship *preview_course_nopop.php?catoid
 ASIAN 35100 - Asian American History of Labor and Politics *preview_course_nopop.php?catoid=39&coid=108124
 ASIAN 39001 - International Migration *preview_course_nopop.php?catoid=39&coid=108125
 ASIAN 39002 - Asian American Civil Rights and the Law *preview_course_nopop.php?catoid=39&coid=108126
+ASIAN 39019 - Asian American Queerness *preview_course_nopop.php?catoid=39&coid=130564
 ASIAN 49100 - Asian American Movement and Community Organizations *preview_course_nopop.php?catoid=39&coid=108134
 ASIAN 23001 - Globalization and Gender *preview_course_nopop.php?catoid=39&coid=108112
 ASIAN 33001 - Chinese in the U.S. *preview_course_nopop.php?catoid=39&coid=108118
@@ -392,7 +394,9 @@ CHEM 35700 - Physical Chemistry Laboratory II *preview_course_nopop.php?catoid=3
 CHEM 36000 - Introduction to Nanotechnology *preview_course_nopop.php?catoid=39&coid=110317
 CHEM 36600 - Inorganic Chemistry *preview_course_nopop.php?catoid=39&coid=108208
 CHEM 36700 - Inorganic Chemistry Laboratory (W) *preview_course_nopop.php?catoid=39&coid=124260
+CHEM 36700 - Inorganic Chemistry Laboratory (W) (Spring 2020) *preview_course_nopop.php?catoid=39&coid=124359
 CHEM 36800 - Structural Biology (W) *preview_course_nopop.php?catoid=39&coid=110318
+CHEM 36800 - Structural Biology (W) ( Spring 2020) *preview_course_nopop.php?catoid=39&coid=124360
 CHEM 36900 - Introduction to Polymer Chemistry *preview_course_nopop.php?catoid=39&coid=124313
 CHEM 37000 - Medicinal Chemistry *preview_course_nopop.php?catoid=39&coid=124331
 CHEM 37100 - Biological Spectroscopy *preview_course_nopop.php?catoid=39&coid=124332
@@ -971,9 +975,18 @@ GEOG 22600 - Environmental Conservation: Resource Management *preview_course_nop
 GEOG 22700 - Environmental Conservation: Urban Problems *preview_course_nopop.php?catoid=39&coid=108664
 GEOG 24100 - Population Geography *preview_course_nopop.php?catoid=39&coid=108665
 GEOG 24300 - Urban Geography *preview_course_nopop.php?catoid=39&coid=108680
+GEOG 24400 - Political Geography *preview_course_nopop.php?catoid=39&coid=108678
 GEOG 24500 - Geography of Development *preview_course_nopop.php?catoid=39&coid=110181
 GEOG 24700 - Cultural Geography *preview_course_nopop.php?catoid=39&coid=108683
 GEOG 25000 - Geographic Research Methods *preview_course_nopop.php?catoid=39&coid=110180
+GEOG 25100 - Geography of the United States and Canada *preview_course_nopop.php?catoid=39&coid=108667
+GEOG 27000 - Regional Geography of Mexico, Central America and the Caribbean *preview_course_nopop.php?catoid=39&coid=108669
+GEOG 27100 - Regional Geography of South America *preview_course_nopop.php?catoid=39&coid=108670
+GEOG 27200 - Regional Geography of Europe *preview_course_nopop.php?catoid=39&coid=130562
+GEOG 27400 - Regional Geography of the Middle East and North Africa *preview_course_nopop.php?catoid=39&coid=108671
+GEOG 27500 - Regional Geography of Sub- Saharan Africa *preview_course_nopop.php?catoid=39&coid=108672
+GEOG 27700 - Regional Geography of East Asia *preview_course_nopop.php?catoid=39&coid=108673
+GEOG 27800 - Regional Geography of Russia and Central Asia *preview_course_nopop.php?catoid=39&coid=108674
 GEOG 30500 - Special Topics in Urban and Regional Dynamics *preview_course_nopop.php?catoid=39&coid=110183
 GEOG 30600 - Special Topics in Contemporary Regional Geographies *preview_course_nopop.php?catoid=39&coid=110182
 GEOG 32100 - Transportation Geography *preview_course_nopop.php?catoid=39&coid=108676
