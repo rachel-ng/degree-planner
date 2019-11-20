@@ -10,7 +10,7 @@ $ python classes.py [reqs fulfilled] [hardness] [output] [fulfilled reqs] [comp]
 
 #### fulfilled requirements file (optional)
 
-file name or `-` for none
+file name or &nbsp;&nbsp; `-` &nbsp;&nbsp; for none
 
 #### comparison (optional)
 
