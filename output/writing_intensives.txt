@@ -1,0 +1,132 @@
+AFPRL 23800 - Introduction to the Literature of the African Diaspora (W)	['rc_eng_comp', 'plurdiv_a', 'plurdiv_b', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107884
+
+ARB 25000 - The Arab Novel (in translation) (W)	['fcc_creative', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108010
+
+ARB 25200 - Literatures from the Islamic World (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108012
+
+ARB 25300 - Literatures and Cultures of Muslim Spain (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108013
+
+ARB 25400 - The Arabian Nights East and West (W)	['fcc_creative', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108014
+
+ASIAN 22500 - Asian American Art (W)	['fcc_creative', 'plurdiv_b', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110292
+
+CLA 20100 - Greek Civilization (W)	['fcc_world', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108240
+
+CLA 20300 - Roman Civilization (W)	['fcc_world', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108242
+
+CLA 25000 - Greek and Roman Tragedy (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108251
+
+CLA 25100 - Ancient Comedy (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108252
+
+CLA 25300 - Homer and Vergil (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108253
+
+GERMN 24100 - German Fairy Tales in Translation (W)	['fcc_creative', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108730
+
+HEBR 21100 - Masterpieces of Medieval Hebraic Literature in Translation (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108821
+
+HIST 12200 - 19th and 20th Century Europe (W)	['fcc_world', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108881
+
+HIST 27700 - East Asia to 1600 (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108894
+
+HIST 27800 - East Asia, 1600 to the Present (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108895
+
+PHILO 21900 - Chinese Philosophy (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109394
+
+PHILO 22600 - African-American Philosophy (W)	['fcc_us', 'plurdiv_b', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109399
+
+REL 20400 - Religious Experience (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109686
+
+REL 20500 - Faith and Disbelief (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109687
+
+REL 20600 - Ideas of God in Contemporary Western Thought (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109688
+
+REL 20700 - Religious Sources for Morality (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109689
+
+REL 20800 - Religion and Social Justice (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109690
+
+REL 25100 - Asian Religions (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109693
+
+REL 25200 - Ancient Near Eastern Religions (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109694
+
+REL 25300 - Abrahamic Religions (W)	['fcc_world', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109695
+
+REL 25400 - Tribal Religions: From Australia to the Americas (W)	['fcc_world', 'plurdiv_a', 'plurdiv_b', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109696
+
+REL 25500 - Religions of Two Gods (W)	['fcc_ind', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109697
+
+REL 25600 - Afro-Caribbean Religions (W)	['fcc_world', 'plurdiv_b', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109698
+
+REL 25700 - Religions of Ancient Central and South America (W)	['fcc_world', 'plurdiv_b', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109699
+
+REL 25800 - Religions of Ancient Europe (W)	['fcc_world', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109700
+
+REL 27000 - Religion and Psychology (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109704
+
+RUSS 25000 - 19th Century Russian Literature in English Translation (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109747
+
+RUSS 25100 - Tolstoy and Dostoevsky in English Translation (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109748
+
+RUSS 25200 - Modern Russian Literature in English Translation (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109749
+
+RUSS 25300 - Russian Theater in English Translation (W)	['fcc_creative', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109750
+
+RUSS 25400 - The Silver Age of Russian Literature in English Translation (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109751
+
+RUSS 25500 - Russian Folklore, in Translation (W)	['fcc_world', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109752
+
+RUSS 26000 - Russian Women Writers in English Translation (W)	['fcc_ind', 'plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109757
+
+RUSS 27000 - Russian Cinema and Society (W)	['fcc_ind', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109758
+
+RUSS 29400 - Folklore and Literature (W)	['fcc_world', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109760
+
+THEA 21100 - World Theatre I (W)	['fcc_creative', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109982
+
+THEA 21200 - World Theatre II (W)	['fcc_creative', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109983
+
+THEA 21300 - World Theatre III (W)	['fcc_creative', 'plurdiv_d', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109984
+
