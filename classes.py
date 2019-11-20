@@ -20,6 +20,7 @@ def courses_fulfill():
     dicts = []
 
     print(files)
+    print("\n\n")
 
     cl_ind = set()
     for f in files:
@@ -122,6 +123,5 @@ if __name__ == "__main__":
     desc = descriptions()
     ci, dct = courses_fulfill()
     fulfills, reqs, wi = fulfillments(ci, dct, desc)
-    print(sys.argv)
     seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], **dict(zip(["comp","w"],sys.argv[4:])))
 
