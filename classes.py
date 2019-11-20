@@ -8,7 +8,7 @@ def descriptions():
     # scraped course data -- scrape.py
     # course id, name of course, link
     fin = open(os.getcwd() + "/data/" + "courses.txt")
-    course_raw = [i.replace("-","**").split("*") for i in fin.read().split("\n") if i != ""]
+    course_raw = [i.replace("-","**",1).split("*") for i in fin.read().split("\n") if i != ""]
     course_desc = {i[0].strip():[i[-2].strip(), "http://catalog.hunter.cuny.edu/" + i[-1]] for i in course_raw}
     fin.close()
     return course_desc
@@ -42,27 +42,32 @@ def courses_fulfill():
 
     return cl_ind, d
 
-def fulfillments(cl_ind, d):
+
+def fulfillments(cl_ind, d, course_desc):
     fulfills = {i:0 for i in cl_ind}
     reqs = {i:[] for i in cl_ind}
     reqs_real = {i:set() for i in cl_ind}
     lengths = {1 : 0, 2 : 0, 3 : 0}
+    wi = set()
 
     # number of and which specific requirements a class fulfills
     for i in d: 
         for n in d[i]:
-           #fulfills[n] += 1
-           reqs[n].append(i)
-           reqs_real[n].add(i.split('_')[0])
-           fulfills[n] = len(reqs_real[n])
-
-    # find the number of classes the fulfill X requirements
+            #fulfills[n] += 1
+            reqs[n].append(i)
+            reqs_real[n].add(i.split('plurdiv_')[0])
+            if course_desc.get(n):
+                if len(course_desc.get(n)[0].split("(W)")) > 1:
+                    wi.add(n)
+            fulfills[n] = len(reqs_real[n])
+                # find the number of classes the fulfill X requirements
     for i in fulfills: 
         lengths[fulfills[i]] += 1
-    return fulfills, reqs 
+  
+    return fulfills, {i:(reqs[i]+["WI"] if (i in wi) else reqs[i]) for i in reqs}, wi
 
-def seek(fulfills, reqs, course_desc, n, hardness, out, comp=">="):
-    print(comp)
+
+def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">="):
     if comp == ">=":
         good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n)}
     if comp == "==":
@@ -87,8 +92,10 @@ def seek(fulfills, reqs, course_desc, n, hardness, out, comp=">="):
             elif i != alt_name_2 and course_desc.get(alt_name_2):
                 c += " (" + alt_name_2 + ") - " + course_desc.get(alt_name_2)[0]
                 l += course_desc.get(alt_name_2)[1] + "\n"
-            bb += i + c + "\t" + str(good[i]) + l + "\n" 
-            print(i + c + "\t" + str(good[i]) + l)
+
+            if (course_desc.get(i)):
+                bb += i + c + "\t" + str(good[i]) + l + "\n" 
+                print(i + c + "\t" + str(good[i]) + l)
 
     f = open(out, "w")
     f.write(bb)
@@ -98,9 +105,8 @@ def seek(fulfills, reqs, course_desc, n, hardness, out, comp=">="):
 if __name__ == "__main__":
     desc = descriptions()
     ci, dct = courses_fulfill()
-    fulfills, reqs = fulfillments(ci, dct)
+    fulfills, reqs, wi = fulfillments(ci, dct, desc)
     if len(sys.argv) > 4:
-        seek(fulfills, reqs, desc, sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
+        seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
     else:
-        seek(fulfills, reqs, desc, sys.argv[1], sys.argv[2], sys.argv[3])
-    print(sys.argv)
+        seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3])
