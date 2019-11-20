@@ -5,7 +5,7 @@ oh man i really spent like 4 hours writing this huh
 ## terminal usage
 
 ```
-$ python classes.py [reqs fulfilled] [hardness] [output file] [fulfilled reqs file] [comp] [writing intensive]
+$ python classes.py [reqs fulfilled] [hardness] [output] [fulfilled reqs file] [comp] [writing intensive]
 ```
 
 #### fulfilled requirements file (optional)
