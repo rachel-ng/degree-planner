@@ -86,7 +86,7 @@ $ python classes.py 1 4 out.txt - == -WI
 ```
 $ python classes.py 2 4 out.txt taken.txt == -WI
 ```
-taken.txt
+[taken.txt](user/taken.txt)
 ```
 fcc_creative
 plurdiv_d
