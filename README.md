@@ -59,7 +59,7 @@ reads from `user/file_name.txt`
 #### basic
 
 ```
-$ python classes.py 2 4 out.txt - 
+$ python classes.py 2 4 out.txt
 ```
 
 
