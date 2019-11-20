@@ -67,15 +67,27 @@ def fulfillments(cl_ind, d, course_desc):
     return fulfills, {i:(reqs[i]+["WI"] if (i in wi) else reqs[i]) for i in reqs}, wi
 
 
-def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">="):
+def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">=", w=""):
     if comp == ">=":
-        good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n)}
+        if w == "WI":
+            good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
+        elif w == "-WI":
+            good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" not in reqs[i]}
+        else: 
+            good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n)}
+
     if comp == "==":
-        good = {i : reqs[i] for i in fulfills if fulfills[i] == int(n)}
-    if comp == "WI":
-        good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
-    if comp == "-WI":
-        good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" not in reqs[i]}
+        if w == "WI":
+            good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
+        elif w == "-WI":
+            good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" not in reqs[i]}
+        else:
+            good = {i : reqs[i] for i in fulfills if fulfills[i] == int(n)}
+    if comp == "-":
+        if w == "WI":
+            good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
+        elif w == "-WI":
+            good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" not in reqs[i]}
     
     alph = sorted(good.keys())
     bb = ""
@@ -110,7 +122,6 @@ if __name__ == "__main__":
     desc = descriptions()
     ci, dct = courses_fulfill()
     fulfills, reqs, wi = fulfillments(ci, dct, desc)
-    if len(sys.argv) > 4:
-        seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4])
-    else:
-        seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3])
+    print(sys.argv)
+    seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], **dict(zip(["comp","w"],sys.argv[4:])))
+
