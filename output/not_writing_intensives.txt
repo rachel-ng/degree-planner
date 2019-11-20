@@ -1,0 +1,111 @@
+AFPRL 10400 - Introduction to Puerto Rican and Latino Studies	['fcc_ind', 'plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110327
+
+AFPRL 20100 - African History from Human Origins to 1600 CE	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107868
+
+AFPRL 20200 - African History Since 1600 CE	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107869
+
+AFPRL 20900 - Introduction to Caribbean History to 1900	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107876
+
+AFPRL 21000 - Introduction to Caribbean History: 1900 - Present	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107877
+
+AFPRL 22200 - African Civilization	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107880
+
+AFPRL 24300 - Puerto Rican Culture	['fcc_world', 'plurdiv_a', 'plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107887
+
+ARB 15000 - Introduction to Modern Arab Cultures	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110366
+
+ARB 25100 - Arab Cinema (in translation)	['fcc_creative', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108011
+
+ARB 25500 - Modern Palestinian Culture	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110233
+
+ARB 25600 - Modern Arab Theatre	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110234
+
+ARB 25700 - Language and Culture in Contemporary North Africa	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110360
+
+ARTH 11100 - Introduction to History of Art	['fcc_ind', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108040
+
+CHIN 11100 - Chinese Culture I	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108220
+
+CHIN 11200 - Chinese Culture II	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108221
+
+CLA 10100 - Classical Mythology	['fcc_world', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108237
+
+DAN 23200 - 20th-Century Dance History	['fcc_creative', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108367
+
+FILM 10100 - Introduction to Cinema	['fcc_creative', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108549
+
+FREN 24100 - Early French Civilization: From Gothic to Revolution	['fcc_world', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108615
+
+FREN 24200 - Modern French Civilization: From Revolution to Present	['fcc_world', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108616
+
+HEBR 22100 - Modern Israeli Culture	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108827
+
+HEBR 22200 - Introduction to Jewish Texts and Writings	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108828
+
+HEBR 24000 - Introduction to the Old Testament	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108829
+
+HEBR 25900 - Old Testament Religion	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108831
+
+HEBR 29000 - Biblical Archaeology	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108840
+
+HEBR 29200 - The Hebrew Prophets	['fcc_ind', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108842
+
+HEBR 29500 - Ancient Hebrew Law	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108847
+
+HIST 11100 - World History to 1500	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108878
+
+HIST 12100 - Early Modern Europe 1500 to 1815	['fcc_world', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108880
+
+HIST 20800 - History of the Jews	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108885
+
+ITAL 28000 - The Italian Renaissance: An Introduction	['fcc_ind', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109002
+
+MUSHL 10100 - A Thousand Years of Listening	['fcc_creative', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109227
+
+MUSHL 10700 - The World of Music	['fcc_creative', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109228
+
+RUSS 15600 - Culture of Imperial Russia: the Age of Empresses	['fcc_ind', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109739
+
+RUSS 15700 - The Age of the Great Masters	['fcc_world', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109740
+
+RUSS 29300 - Folklore in Translation: A Comparative Study	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109759
+
+SPAN 24100 - Civilization of Spain, in English	['fcc_world', 'plurdiv_d']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109903
+
