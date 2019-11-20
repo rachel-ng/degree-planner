@@ -72,7 +72,9 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">="):
         good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n)}
     if comp == "==":
         good = {i : reqs[i] for i in fulfills if fulfills[i] == int(n)}
-
+    if comp == "WI":
+        good = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
+    
     alph = sorted(good.keys())
     bb = ""
 
@@ -97,7 +99,7 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">="):
                 bb += i + c + "\t" + str(good[i]) + l + "\n" 
                 print(i + c + "\t" + str(good[i]) + l)
 
-    f = open(out, "w")
+    f = open("output/" + out, "w")
     f.write(bb)
     f.close()
 
