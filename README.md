@@ -1,6 +1,6 @@
 # degree-planner
 
-oh man i really spent like 4 hours writing this huh 
+oh man i really spent ~like 4 hours writing this huh~ way too long on this
 
 ## terminal usage
 
