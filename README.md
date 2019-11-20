@@ -5,8 +5,12 @@ oh man i really spent like 4 hours writing this huh
 ## terminal usage
 
 ```
-$ python classes.py [requirements fulfilled] [hardness] [output file] [comparison] [writing intensive]
+$ python classes.py [requirements fulfilled] [hardness] [output file] [fulfilled requirements file] [comparison] [writing intensive]
 ```
+
+#### fulfilled requirements file (optional)
+
+file name or `-` for none
 
 #### comparison (optional)
 
