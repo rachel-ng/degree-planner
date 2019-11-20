@@ -16,7 +16,6 @@ $ python classes.py [requirements fulfilled] [hardness] [output file] [compariso
 
 `-` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for use with [writing intensive option](#writing-intensive) uses the **\[default]** `>=`
 
-&nbsp;
 
 #### writing intensive (optional)
 
@@ -24,7 +23,6 @@ $ python classes.py [requirements fulfilled] [hardness] [output file] [compariso
 
 `-WI` &nbsp;&nbsp;&nbsp;&nbsp; no writing intensives
 
-&nbsp;
 
 ### examples
 
@@ -32,22 +30,16 @@ $ python classes.py [requirements fulfilled] [hardness] [output file] [compariso
 $ python classes.py 2 4 out.txt
 ```
 
-&nbsp;
-
 classes that fulfill 1 requirement
 ```
 $ python classes.py 1 4 out.txt == 
 ```
-
-&nbsp;
 
 writing intensive classes that fulfill 2 or more requirements 
 ```
 $ python classes.py 2 4 out.txt - WI           // lazy way
 $ python classes.py 2 4 out.txt >= WI
 ```
-
-&nbsp;
 
 non-writing intensive classes that fulfill 1 requirement
 ```
