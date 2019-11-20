@@ -30,27 +30,29 @@ file name or &nbsp;&nbsp; `-` &nbsp;&nbsp; for none
 
 ### examples
 
+#### basic
+
 ```
 $ python classes.py 2 4 out.txt - 
 ```
 
-classes that fulfill 1 requirement
+#### classes that fulfill 1 requirement
 ```
 $ python classes.py 1 4 out.txt - == 
 ```
 
-writing intensive classes that fulfill 2 or more requirements 
+#### writing intensive classes that fulfill 2 or more requirements 
 ```
 $ python classes.py 2 4 out.txt - - WI           // lazy way
 $ python classes.py 2 4 out.txt - >= WI
 ```
 
-non-writing intensive classes that fulfill 1 requirement
+#### non-writing intensive classes that fulfill 1 requirement
 ```
 $ python classes.py 1 4 out.txt - == -WI
 ```
 
-non-writing intensive classes that fulfill 2 requirements not in taken.txt
+#### non-writing intensive classes that fulfill 2 requirements not in taken.txt
 ```
 $ python classes.py 2 4 out.txt taken.txt == -WI
 ```
