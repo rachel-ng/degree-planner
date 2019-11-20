@@ -137,5 +137,5 @@ if __name__ == "__main__":
     desc = descriptions()
     ci, dct = courses_fulfill()
     fulfills, reqs, wi = fulfillments(ci, dct, desc)
-    seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], **dict(zip(["comp","w"],sys.argv[5:])))
+    seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], **dict(zip(["comp","w"],sys.argv[4:])))
 
