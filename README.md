@@ -5,12 +5,26 @@ oh man i really spent ~like 4 hours writing this huh~ way too long on this
 ## terminal usage
 
 ```
-$ python classes.py [reqs fulfilled] [hardness] [output] [fulfilled reqs] [comp] [writing intensive]
+$ python classes.py [reqs_fulfilled] [hardness] [output] [fulfilled_reqs] [comp] [writing_intensive]
 ```
+
+#### hardness (required)
+
+100-, 200-level courses — lower div courses 
+
+300-, 400-level courses — upper div courses 
+
+500-, 600-, 700-level courses — graduate courses
+
+#### output file (required)
+
+writes to `output/file_name.txt`
 
 #### fulfilled requirements file (optional)
 
 file name or &nbsp;&nbsp; `-` &nbsp;&nbsp; for none
+
+reads from `user/file_name.txt`
 
 #### comparison (optional)
 
