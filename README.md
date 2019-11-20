@@ -82,13 +82,7 @@ $ python classes.py 1 4 out.txt - == -WI
 ```
 
 
-#### non-writing intensive classes that fulfill 2 requirements not in taken.txt
+#### non-writing intensive classes that fulfill 2 requirements not in [taken.txt](user/taken.txt)
 ```
 $ python classes.py 2 4 out.txt taken.txt == -WI
 ```
-[taken.txt](user/taken.txt)
-```
-fcc_creative
-plurdiv_d
-```
-
