@@ -79,9 +79,9 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, fulfilled="-", comp=
 
     if comp == "==":
         if w == "WI":
-            ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
+            ok = {i : reqs[i] for i in fulfills if fulfills[i] == int(n) and "WI" in reqs[i]}
         elif w == "-WI":
-            ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" not in reqs[i]}
+            ok = {i : reqs[i] for i in fulfills if fulfills[i] == int(n) and "WI" not in reqs[i]}
         else:
             ok = {i : reqs[i] for i in fulfills if fulfills[i] == int(n)}
 
