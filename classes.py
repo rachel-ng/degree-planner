@@ -44,19 +44,25 @@ def courses_fulfill():
     return cl_ind, d
 
 
-def fulfillments(cl_ind, d, course_desc):
+def courses_exclude():
+    fin = open(os.getcwd() + '/user/taken.txt',"r")
+    classes = [i for i in fin.read().split("\n") if i!= ""] 
+    return classes
+
+def fulfillments(cl_ind, d, course_desc, excl):
     fulfills = {i:0 for i in cl_ind}
     reqs = {i:[] for i in cl_ind}
     reqs_real = {i:set() for i in cl_ind}
-    lengths = {1 : 0, 2 : 0, 3 : 0}
+    lengths = {0 : 0, 1 : 0, 2 : 0, 3 : 0}
     wi = set()
-
+    
     # number of and which specific requirements a class fulfills
     for i in d: 
         for n in d[i]:
             #fulfills[n] += 1
-            reqs[n].append(i)
-            reqs_real[n].add(i.split('plurdiv_')[0])
+            if i not in excl: 
+                reqs[n].append(i)
+                reqs_real[n].add(i.split('plurdiv_')[0])
             if course_desc.get(n):
                 if len(course_desc.get(n)[0].split("(W)")) > 1:
                     wi.add(n)
@@ -69,6 +75,8 @@ def fulfillments(cl_ind, d, course_desc):
 
 
 def seek(fulfills, reqs, wi, course_desc, n, hardness, out, fulfilled="-", comp=">=", w=""):
+    ok = {}
+
     if comp == ">=":
         if w == "WI":
             ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
@@ -90,22 +98,31 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, fulfilled="-", comp=
             ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
         elif w == "-WI":
             ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" not in reqs[i]}
-  
+
+    print(fulfilled)
+
     if fulfilled != "-":
         fin = open("user/" + fulfilled, "r")
         completed = [i for i in fin.read().split("\n") if i != ""]
         fin.close()
+        
+        print(completed)
+        
         good = copy.deepcopy(ok) 
         for i in ok:
+            print(good[i])
             for n in completed: 
                 if n in ok[i]:
                     good.pop(i, None)
                     break
+            print(good[i])
+            print("")
     else:
         good = copy.deepcopy(ok) 
     
     alph = sorted(good.keys())
     bb = ""
+
 
     for i in alph: 
         l = i.split(" ")
@@ -136,6 +153,10 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, fulfilled="-", comp=
 if __name__ == "__main__":
     desc = descriptions()
     ci, dct = courses_fulfill()
-    fulfills, reqs, wi = fulfillments(ci, dct, desc)
-    seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], **dict(zip(["comp","w"],sys.argv[4:])))
+    #print(ci)
+    #print(dct)
+    excl = courses_exclude()
+    fulfills, reqs, wi = fulfillments(ci, dct, desc, excl)
+    print(sys.argv)
+    seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], **dict(zip(["fulfilled", "comp","w"],sys.argv[4:])))
 
