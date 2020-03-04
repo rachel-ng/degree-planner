@@ -8,7 +8,7 @@ def descriptions():
     # scraped course data -- scrape.py
     # course id, name of course, link
     fin = open(os.getcwd() + "/data/" + "courses.txt")
-    course_raw = [i.replace("-","**",1).split("*") for i in fin.read().split("\n") if i != ""]
+    course_raw = [i.replace("-","*",1).split("*") for i in fin.read().split("\n") if i != ""]
     course_desc = {i[0].split("(")[0].strip():[i[-2].strip(), "http://catalog.hunter.cuny.edu/" + i[-1]] for i in course_raw}
     fin.close()
     return course_desc
@@ -123,6 +123,7 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">=", w=""):
     
     alph = sorted(good.keys())
     bb = ""
+    bb += "python classes.py {} {} {} {} {}\n\n".format(n, hardness, out, comp, w)
 
     for i in alph: 
         l = i.split(" ")
