@@ -155,6 +155,5 @@ if __name__ == "__main__":
     ci, dct = courses_fulfill()
     excl = courses_exclude()
     fulfills, reqs, wi = fulfillments(ci, dct, desc, excl)
-    print(sys.argv)
     seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], **dict(zip(["comp","w"],sys.argv[4:])))
 
