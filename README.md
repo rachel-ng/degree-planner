@@ -6,7 +6,7 @@ oh man i really spent ~like 4 hours writing this huh~ way too long on this huh
 ## terminal usage
 
 ```
-$ python classes.py [reqs_fulfill] [hardness] [output] [fulfilled_reqs] [comp] [writing_intensive]
+$ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive]
 ```
 
 <sup>[some examples below &or;](#examples)<sup>
