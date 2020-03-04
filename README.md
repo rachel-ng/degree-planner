@@ -30,11 +30,13 @@ $ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive
 writes to `output/file_name.txt`
 
 
+<!--
 #### fulfilled requirements file (optional)
 
 file name or &nbsp;&nbsp; `-` &nbsp;&nbsp; for none
 
 reads from `user/file_name.txt`
+-->
 
 
 #### comparison (optional)
