@@ -1,0 +1,194 @@
+python classes.py 1 2 out.txt == 
+
+AFPRL 10000 - Introduction to Black Politics	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107860
+
+AFPRL 10100 - Introduction to Africana Studies	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107861
+
+AFPRL 10200 - Latino Communities in the United States	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107862
+
+AFPRL 10300 - Conquest and Resistance: Puerto Rican Experiences in Comparative Perspective	['plurdiv_b']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107863
+
+AFPRL 14100 - Puerto Rican Folklore	['plurdiv_b', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107864
+
+AFPRL 14300 - The Image of the Puerto Rican National Identity in Its Literature	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107865
+
+AFPRL 18200 - Culture and Ethnic Identity	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107867
+
+ANTHC 10000 - Cultural Diversity in the United States: Historical and Ethnographic Perspectives (W)	['fcc_us', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110249
+
+ANTHC 10100 - Introduction to Cultural Anthropology	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107938
+
+ANTHC 12600 - Introduction to Prehistoric Archaeology	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107939
+
+ANTHC 15100 - Introduction to Linguistics	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107941
+
+ANTHP 10100 - Human Evolution	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107991
+
+ANTHP 10200 - Human Variation	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107992
+
+ANTHP 10500 - The Human Species	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107993
+
+ARTH 11100 - Introduction to History of Art	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108040
+
+ASTRO 10200 - Laboratory Explorations in Astronomy	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110129
+
+BIOL 10000 - Principles of Biology I	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108139
+
+BIOL 10200 - Principles of Biology II	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108140
+
+BIOL 10500 - Introduction to Genome Biology	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110126
+
+BIOL 10700 - The Human Barcode: Biology and Genetics of Personal Identification	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110262
+
+BIOL 12500 - Human Biology	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108143
+
+BIOL 15000 - CSI:  HUNTER (Forensic Biology)	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108144
+
+CHEM 10000 - Essentials of General Chemistry Lecture	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108179
+
+CHEM 10100 - Inquiries into the Nature of Matter	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108180
+
+CHEM 10200 - General Chemistry I	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108181
+
+CHEM 10300 - General Chemistry Laboratory I	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108182
+
+CHEM 10400 - General Chemistry II	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108183
+
+CHEM 10600 - General Chemistry Laboratory	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108185
+
+CHEM 11100 - Chemical Principles	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108186
+
+CHEM 11200 - Thermodynamics and Solution Chemistry	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108187
+
+CLA 10100 - Classical Mythology	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108237
+
+CLA 11000 - The Greek and Latin Roots of English	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108239
+
+ENGL 12000 - Expository Writing	['rc_eng_comp']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108446
+
+GEOG 15000 - World Regional Geography	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108658
+
+GEOL 10100 - Introductory Geology Lab	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110130
+
+HEBR 10100 - Elementary Hebrew I	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108811
+
+HEBR 10500 - Elementary Biblical Hebrew I	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108814
+
+HIST 11200 - World History from 1500 to the Present	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108879
+
+HIST 12100 - Early Modern Europe 1500 to 1815	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108880
+
+HIST 12200 - 19th and 20th Century Europe (W)	['fcc_world', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108881
+
+HIST 15100 - The United States from the Colonial Era to the Civil War (W)	['fcc_us', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108882
+
+HIST 15200 - The United States from the Civil War Era to the Present (W)	['fcc_us', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108883
+
+MEDIA 18000 - MEDIA 18000	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109122
+
+MUSHL 10700 - The World of Music	['plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109228
+
+PGEOG 13000 - Weather and Climate	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109360
+
+PHILO 10100 - Introduction to Philosophy	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109380
+
+PHILO 10400 - Introduction to Ethics and Moral Judgment	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109382
+
+PHYS 10100 - Basic Concepts of Physics with Laboratory Exercises	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109455
+
+PHYS 11000 - General Physics: Introductory Course in Mechanics, Heat, and Sound	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109456
+
+PHYS 11100 - General Physics: Introductory Course in Mechanics, Heat, and Sound	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109457
+
+PHYS 12000 - General Physics: Introductory Course in Electricity and Magnetism, Light, and Atomic Physics	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109458
+
+PHYS 12100 - General Physics: Introductory Course in Electricity and Magnetism, Light, and Atomic Physics	['rc_sci']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109459
+
+POLSC 10000 - Introduction to Politics: Democracy, Anarchy and the State (W)	['fcc_world', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109507
+
+POLSC 11000 - American Government: A Historical Introduction (W)	['fcc_us', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109508
+
+POLSC 11500 - Introduction to International Politics (W)	['fcc_world', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=124239
+
+PSYCH 17000 - Psychology of Human Sexuality	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109620
+
+PSYCH 19000 - Development of Gender Roles	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109622
+
+REL 11000 - Nature of Religion (W)	['fcc_ind', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109684
+
+REL 11100 - Approaches to Religion (W)	['fcc_ind', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109685
+
+RUSS 15700 - The Age of the Great Masters	['fcc_world']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109740
+
+RUSS 15800 - Contemporary Russian Culture	['fcc_ind']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109741
+
+WGS 10000 - Introduction to Gender and Sexuality Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110052
+
+WGS 12100 - Public Speaking in Gender Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110293
+
+WGSS 15000 - Introduction to LGBTQI Studies	['plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110094
+
