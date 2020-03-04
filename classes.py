@@ -9,7 +9,7 @@ def descriptions():
     # course id, name of course, link
     fin = open(os.getcwd() + "/data/" + "courses.txt")
     course_raw = [i.replace("-","**",1).split("*") for i in fin.read().split("\n") if i != ""]
-    course_desc = {i[0].strip():[i[-2].strip(), "http://catalog.hunter.cuny.edu/" + i[-1]] for i in course_raw}
+    course_desc = {i[0].split("(")[0].strip():[i[-2].strip(), "http://catalog.hunter.cuny.edu/" + i[-1]] for i in course_raw}
     fin.close()
     return course_desc
 
@@ -74,7 +74,7 @@ def fulfillments(cl_ind, d, course_desc, excl):
     return fulfills, {i:(reqs[i]+["WI"] if (i in wi) else reqs[i]) for i in reqs}, wi
 
 
-def seek(fulfills, reqs, wi, course_desc, n, hardness, out, fulfilled="-", comp=">=", w=""):
+def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">=", w=""):
     ok = {}
 
     if comp == ">=":
@@ -99,8 +99,7 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, fulfilled="-", comp=
         elif w == "-WI":
             ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" not in reqs[i]}
 
-    print(fulfilled)
-
+    '''
     if fulfilled != "-":
         fin = open("user/" + fulfilled, "r")
         completed = [i for i in fin.read().split("\n") if i != ""]
@@ -118,11 +117,12 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, fulfilled="-", comp=
             print(good[i])
             print("")
     else:
-        good = copy.deepcopy(ok) 
+    '''    
+
+    good = copy.deepcopy(ok) 
     
     alph = sorted(good.keys())
     bb = ""
-
 
     for i in alph: 
         l = i.split(" ")
@@ -153,10 +153,8 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, fulfilled="-", comp=
 if __name__ == "__main__":
     desc = descriptions()
     ci, dct = courses_fulfill()
-    #print(ci)
-    #print(dct)
     excl = courses_exclude()
     fulfills, reqs, wi = fulfillments(ci, dct, desc, excl)
     print(sys.argv)
-    seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], **dict(zip(["fulfilled", "comp","w"],sys.argv[4:])))
+    seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], **dict(zip(["comp","w"],sys.argv[4:])))
 
