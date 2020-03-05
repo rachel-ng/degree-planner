@@ -6,7 +6,7 @@ oh man i really spent ~like 4 hours writing this huh~ way too long on this huh
 ## terminal usage
 
 ```
-$ python classes.py [reqs_fulfill] [hardness] [output] [fulfilled_reqs] [comp] [writing_intensive]
+$ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive]
 ```
 
 <sup>[some examples below &or;](#examples)<sup>
@@ -30,11 +30,13 @@ $ python classes.py [reqs_fulfill] [hardness] [output] [fulfilled_reqs] [comp] [
 writes to `output/file_name.txt`
 
 
+<!--
 #### fulfilled requirements file (optional)
 
 file name or &nbsp;&nbsp; `-` &nbsp;&nbsp; for none
 
 reads from `user/file_name.txt`
+-->
 
 
 #### comparison (optional)
@@ -65,24 +67,24 @@ $ python classes.py 2 4 out.txt
 
 #### classes that fulfill 1 requirement
 ```
-$ python classes.py 1 4 out.txt - == 
+$ python classes.py 1 4 out.txt == 
 ```
 
 
 #### writing intensive classes that fulfill 2 or more requirements 
 ```
-$ python classes.py 2 4 out.txt - - WI           // lazy way
-$ python classes.py 2 4 out.txt - >= WI
+$ python classes.py 2 4 out.txt - WI           // lazy way
+$ python classes.py 2 4 out.txt >= WI
 ```
 
 
 #### non-writing intensive classes that fulfill 1 requirement
 ```
-$ python classes.py 1 4 out.txt - == -WI
+$ python classes.py 1 4 out.txt == -WI
 ```
 
 
-#### non-writing intensive classes that fulfill 2 requirements not in [taken.txt](user/taken.txt)
+#### [ignore this] non-writing intensive classes that fulfill 2 requirements not in [taken.txt](user/taken.txt)
 ```
 $ python classes.py 2 4 out.txt taken.txt == -WI
 ```
