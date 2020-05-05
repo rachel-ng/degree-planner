@@ -86,14 +86,14 @@ this only affects the \# of requirements considered fulfilled and does not inclu
 
 ### [requirements](data/) fulfilled 
 
-add [requirements](data/) you've fulfilled to [taken.txt](user/taken.txt)
-
-*check [degreeworks](https://degreeworks.cuny.edu/) for everything, put them **exactly** as they correspond to the file names in **[requirements](data/) excluding the file extension*** 
-
 ```
 fcc_creative
 plurdiv_d
 ```
+
+add [requirements](data/) you've fulfilled to [taken.txt](user/taken.txt)
+
+*check [degreeworks](https://degreeworks.cuny.edu/) for everything, put them **exactly** as they correspond to the file names in **[requirements](data/) excluding the file extension*** 
 
 `rc_whatever` required core  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `rc_eng_comp`  
