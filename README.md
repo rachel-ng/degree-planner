@@ -104,7 +104,7 @@ fcc_creative
 plurdiv_d
 ```
 
-*check [degreeworks](https://degreeworks.cuny.edu/) for everything, put them **exactly** as they correspond to the file names in **[requirements](data/) excluding the file extension*** 
+*check **[degreeworks](https://degreeworks.cuny.edu/)** for everything, put them **exactly** as they correspond to the file names in **[requirements](data/) excluding the file extension*** 
 
 &nbsp;  
 `rc_whatever` required core  
@@ -135,7 +135,8 @@ gets the names + a link to the course description
 ```
 (venv) $ python scrape.py 
 ```
-<sub>you will need `bs4` `(beautifulsoup4)` for this</sub>  
+
+<sub>you will need `bs4` `(beautifulsoup4)` for this, [installation instructions below &or;](#installation)</sub>  
 
 &nbsp; 
 
