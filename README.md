@@ -2,12 +2,18 @@
 
 oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too long on this huh
 
+<sup>you will need `pandas`, `bs4` `(beautifulsoup4)`</sup>
+
 ***NOTE**&nbsp;&nbsp;&nbsp; not all classes are available at all times* 
+
+
 
 ## terminal usage
 
+<sub>follow the [installation instructions](#installation) if needed </sub>
+
 ```
-$ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive]
+(venv) $ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive]
 ```
 
 ```
@@ -26,10 +32,11 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 <sup>[some examples of terminal usage below &or;](#examples)<sup>
 
 
+
 #### requirements fulfilled (required)
 
 \# of requirements the classes fulfill  
-<sup>*can be adjusted with [comparison (optional)](#comparison-optional)*</sup>
+<sub>*can be adjusted with [comparison (optional)](#comparison-optional)*</sub>
 
 **NOTE**
 - does not include [writing intensives](#writing-intensive-optional)
@@ -48,7 +55,7 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 
 *will not go above the hardness you put i.e.*  
 `4` will give you all classes **below** 400-level  
-<sup>*not affected by the [comparison (optional)](#comparison-optional) used*</sup>
+<sub>*not affected by the [comparison (optional)](#comparison-optional) used*</sub>
 
 100-, 200-level courses — lower div courses 
 
@@ -75,7 +82,7 @@ this only affects the \# of requirements considered fulfilled and does not inclu
 
 #### writing intensive (optional)
 
-<sup>not included in the number of requirements</sup>
+<sub>not included in the number of requirements</sub>
 
 
 `WI` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; writing intensives only
@@ -117,8 +124,28 @@ add [requirements](data/) you've fulfilled to [taken.txt](user/taken.txt)
 gets the names + a link to the course description 
 
 ```
-$ python scrape.py 
+(venv) $ python scrape.py 
 ```
+
+
+## installation 
+
+1. activate your virtual environment (make it if you don't have one)
+
+ ```
+ $ python3 -m venv venv
+ $ . path/to/venv/bin/activate
+ ```
+
+2. upgrade `pip` and install the dependencies using `requirements.txt`
+
+ ```
+ (venv) $ pip install --upgrade pip
+ (venv) $ pip install -r requirements.txt
+ ```
+
+3. you're ready to go! 
+
 
 
 ## examples
@@ -126,24 +153,24 @@ $ python scrape.py
 #### basic
 
 ```
-$ python classes.py 2 4 out.txt
+(venv) $ python classes.py 2 4 out.txt
 ```
 
 
 #### classes that fulfill 1 requirement
 ```
-$ python classes.py 1 4 out.txt == 
+(venv) $ python classes.py 1 4 out.txt == 
 ```
 
 
 #### writing intensive classes that fulfill 2 or more requirements 
 ```
-$ python classes.py 2 4 out.txt - WI           // lazy way
-$ python classes.py 2 4 out.txt >= WI
+(venv) $ python classes.py 2 4 out.txt - WI           // lazy way
+(venv) $ python classes.py 2 4 out.txt >= WI
 ```
 
 
 #### non-writing intensive classes that fulfill 1 requirement
 ```
-$ python classes.py 1 4 out.txt == -WI
+(venv) $ python classes.py 1 4 out.txt == -WI
 ```
