@@ -1,5 +1,5 @@
 import sys
-import urllib
+import urllib.request
 import re
 import unicodedata
 import pandas as pd
