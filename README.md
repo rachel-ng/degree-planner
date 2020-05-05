@@ -2,15 +2,15 @@
 
 oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too long on this huh
 
-<sup>you will need `pandas`, `bs4` `(beautifulsoup4)`</sup>
+<sub>you will need `bs4` `(beautifulsoup4)` for scraping course data</sub>
+
+<sup>if you decide to do so, there are [detailed installation instructions below &or;](#installation)</sup>
 
 ***NOTE**&nbsp;&nbsp;&nbsp; not all classes are available at all times* 
 
 
 
 ## terminal usage
-
-<sub>follow the [installation instructions](#installation) if needed </sub>
 
 ```
 (venv) $ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive]
@@ -93,12 +93,12 @@ this only affects the \# of requirements considered fulfilled and does not inclu
 
 ### [requirements](data/) fulfilled 
 
+add [requirements](data/) you've fulfilled to [taken.txt](user/taken.txt)
+
 ```
 fcc_creative
 plurdiv_d
 ```
-
-add [requirements](data/) you've fulfilled to [taken.txt](user/taken.txt)
 
 *check [degreeworks](https://degreeworks.cuny.edu/) for everything, put them **exactly** as they correspond to the file names in **[requirements](data/) excluding the file extension*** 
 
@@ -130,19 +130,25 @@ gets the names + a link to the course description
 
 ## installation 
 
+`bs4` `(beautifulsoup4)` for scraping the course data 
+
+```
+(venv) $ pip install bs4
+```
+
 1. activate your virtual environment (make it if you don't have one)
+   ```
+   $ python3 -m venv venv
+   $ . path/to/venv/bin/activate
+   ```
 
- ```
- $ python3 -m venv venv
- $ . path/to/venv/bin/activate
- ```
+2. or upgrade `pip` and install the dependencies using `requirements.txt`
 
-2. upgrade `pip` and install the dependencies using `requirements.txt`
-
- ```
- (venv) $ pip install --upgrade pip
- (venv) $ pip install -r requirements.txt
- ```
+   ```
+   (venv) $ pip install --upgrade pip
+   (venv) $ pip install -r requirements.txt
+   ```
+   while it is best to do this, you may very well just be able to `pip install bs4` and be done with it 
 
 3. you're ready to go! 
 
