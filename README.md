@@ -2,9 +2,7 @@
 
 oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too long on this huh
 
-<sub>you will need `bs4` `(beautifulsoup4)` for scraping course data</sub>
-
-<sup>if you decide to do so, there are [detailed installation instructions below &or;](#installation)</sup>
+`last scraped: 05/04/2020 21:35:36`
 
 ***NOTE**&nbsp;&nbsp;&nbsp; not all classes are available at all times* 
 
@@ -28,6 +26,8 @@ http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108730
 
 please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** and ***[scraping courses](#scraping-courses)*** sections as well for more accurate info on your situation and on the courses! 
 
+<sub>you will need `bs4` `(beautifulsoup4)` for scraping course data</sub>  
+<sup>if you decide to do so, there are [detailed installation instructions below &or;](#installation)</sup>
 
 <sup>[some examples of terminal usage below &or;](#examples)<sup>
 
