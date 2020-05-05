@@ -65,7 +65,8 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 
 #### output file (required)
 
-writes to `output/file_name.txt`
+writes to `output/file_name.txt`  
+includes the command you ran it with (some older example output files do not include this)
 
 
 #### comparison (optional)
