@@ -8,16 +8,16 @@ oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too lon
 
 ```
 $ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive]
+```
 
 ```
 
-classes are formatted as so 
-```
 CODE 10100 - Not A Real Class	['requirements', 'it', 'fulfills']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=LINK&coid=TO_COURSE_DESCRIPTION
 
 GERMN 24100 - German Fairy Tales in Translation (W)	['fcc_creative', 'plurdiv_d', 'WI']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108730
+ 
 ```
 
 please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** and ***[scraping courses](#scraping-courses)*** sections as well for more accurate info on your situation and on the courses! 
@@ -91,16 +91,25 @@ add [requirements](data/) you've fulfilled to [taken.txt](user/taken.txt)
 *check [degreeworks](https://degreeworks.cuny.edu/) for everything, put them **exactly** as they correspond to the file names in **[requirements](data/) excluding the file extension*** 
 
 ```
-rc_eng_comp
 fcc_creative
 plurdiv_d
 ```
 
-`rc_whatever` required core (eng_comp, sci)
+`rc_whatever` required core  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `rc_eng_comp`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `rc_sci`  
 
-`fcc_whatever` flexible common core (creative, ind, us, world) 
+`fcc_whatever` flexible common core  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_creative`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_ind`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_us`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_world`  
 
-`plurdiv_x` pluralism and diversity (a, b, c, d) 
+`plurdiv_x` pluralism and diversity  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_a`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_b`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_c`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_d`  
 
 
 ### scraping courses
