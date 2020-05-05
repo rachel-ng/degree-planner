@@ -4,7 +4,6 @@ oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too lon
 
 `last scraped: 05/04/2020 21:35:36`
 
-&nbsp;  
 ***NOTE**&nbsp;&nbsp;&nbsp; not all classes are available at all times* 
 
 &nbsp; 
@@ -33,8 +32,6 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 <sup>if you decide to do so, there are [detailed installation instructions below &or;](#installation)</sup>
 
 <sup>[some examples of terminal usage below &or;](#examples)<sup>
-
-&nbsp; 
 
 
 
