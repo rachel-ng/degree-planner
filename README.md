@@ -29,10 +29,10 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 #### requirements fulfilled (required)
 
 \# of requirements the classes fulfill  
-<sup>*can be adjusted with [comparison (optional)](#comparison-(optional))*</sup>
+<sup>*can be adjusted with [comparison (optional)](#comparison-optional)*</sup>
 
 **NOTE**
-- does not include [writing intensives](#writing-intensive)
+- does not include [writing intensives](#writing-intensive-optional)
 - *you can not "double dip" with requirements i.e.*
 
   ```
@@ -64,13 +64,13 @@ writes to `output/file_name.txt`
 
 #### comparison (optional)
 
-this only affects the \# of requirements considered fulfilled and does not include [writing intensives](#writing-intensive)
+this only affects the \# of requirements considered fulfilled and does not include [writing intensives](#writing-intensive-optional)
 
 `>=` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\[default]** &nbsp;&nbsp; i.e. 2 or more
 
 `==` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.e. exactly 1
 
-`-` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for use with [writing intensive option](#writing-intensive), uses the  &nbsp; **\[default]** &nbsp;&nbsp; `>=`
+`-` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for use with [writing intensive option](#writing-intensive-optional), uses the  &nbsp; **\[default]** &nbsp;&nbsp; `>=`
 
 
 #### writing intensive (optional)
