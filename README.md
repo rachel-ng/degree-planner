@@ -19,6 +19,17 @@ $ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive
 $ python scrape.py 
 ```
 
+### add requirements you've filled to [taken.txt](user/taken.txt)
+
+```
+fcc_creative
+plurdiv_d
+```
+
+`rc` required core 
+`fcc` flexible common core 
+`plurdiv_x` pluralism and diversity x (check [degreeworks](https://degreeworks.cuny.edu/) for your letters)
+
 
 #### requirements fulfilled (required)
 \# of requirements the classes fulfill
@@ -93,8 +104,9 @@ $ python classes.py 2 4 out.txt >= WI
 $ python classes.py 1 4 out.txt == -WI
 ```
 
-
+<!-- 
 #### [ignore this] non-writing intensive classes that fulfill 2 requirements not in [taken.txt](user/taken.txt)
 ```
 $ python classes.py 2 4 out.txt taken.txt == -WI
 ```
+-->
