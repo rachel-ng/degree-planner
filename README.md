@@ -28,7 +28,7 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 
 #### requirements fulfilled (required)
 
-\# of requirements the classes fulfill
+\# of requirements the classes fulfill  
 <sup>*can be adjusted with [comparison (optional)](#comparison-(optional))*</sup>
 
 **NOTE**
