@@ -2,7 +2,6 @@ import sys
 import urllib.request
 import re
 import unicodedata
-import pandas as pd
 from bs4 import BeautifulSoup
 
 courses = dict()
