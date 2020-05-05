@@ -40,7 +40,7 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 
 **NOTE**
 - does not include [writing intensives](#writing-intensive-optional)
-- *you can not "double dip" with requirements i.e.*
+- *you can not "double dip" with requirements e.g.*
 
   ```
   SPAN 26900 - Spanish American Women’s Literature and Cinema (W)    ['plurdiv_a', 'plurdiv_c', 'WI']
@@ -53,8 +53,7 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 
 #### hardness (required)
 
-*will not go above the hardness you put i.e.*  
-`4` will give you all classes **below** 400-level  
+*will not go above the hardness you put e.g.* `4` will give you all classes **below** 400-level  
 <sub>*not affected by the [comparison (optional)](#comparison-optional) used*</sub>
 
 100-, 200-level courses — lower div courses 
@@ -73,9 +72,9 @@ writes to `output/file_name.txt`
 
 this only affects the \# of requirements considered fulfilled and does not include [writing intensives](#writing-intensive-optional)
 
-`>=` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\[default]** &nbsp;&nbsp; i.e. 2 or more
+`>=` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\[default]** &nbsp;&nbsp; e.g. 2 or more
 
-`==` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.e. exactly 1
+`==` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. exactly 1
 
 `-` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for use with [writing intensive option](#writing-intensive-optional), uses the  &nbsp; **\[default]** &nbsp;&nbsp; `>=`
 
