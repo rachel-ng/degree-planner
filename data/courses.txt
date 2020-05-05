@@ -473,6 +473,7 @@ COMHE 32600 - HIV/AIDS: An Interdisciplinary Perspective for Health Care Provide
 COMHE 32800 - Public Health Biology *preview_course_nopop.php?catoid=39&coid=108286
 COMHE 33000 - Principles of Epidemiology *preview_course_nopop.php?catoid=39&coid=108287
 COMHE 40000 - Topics in Community Health and Public Health *preview_course_nopop.php?catoid=39&coid=108288
+COMHE 40500 - Health Care Systems and Health Policy *preview_course_nopop.php?catoid=39&coid=130611
 COMHE 40800 - Digital Media and Health *preview_course_nopop.php?catoid=39&coid=108290
 COMHE 41100 - Community Health Assessment *preview_course_nopop.php?catoid=39&coid=108291
 COMHE 41200 - Directed Fieldwork Practicum *preview_course_nopop.php?catoid=39&coid=108292
@@ -580,6 +581,7 @@ DAN 48000 - Independent Study in Dance *preview_course_nopop.php?catoid=39&coid=
 DAN 49000 - Honors in Dance *preview_course_nopop.php?catoid=39&coid=108386
 DAN 49800 - Internship *preview_course_nopop.php?catoid=39&coid=108387
 ECO 10000 - Introduction to Economics *preview_course_nopop.php?catoid=39&coid=108389
+ECO 19600 - Special Topics in Economics *preview_course_nopop.php?catoid=39&coid=110325
 ECO 20000 - Principles of Microeconomics *preview_course_nopop.php?catoid=39&coid=108390
 ECO 20100 - Principles of Macroeconomics *preview_course_nopop.php?catoid=39&coid=108391
 ECO 22000 - Techniques of Economic Analysis *preview_course_nopop.php?catoid=39&coid=108393
@@ -1148,7 +1150,7 @@ GRK 42100 - Independent Study in Greek Literature *preview_course_nopop.php?cato
 HEBR 21000 - Selected Studies in Hebrew Literature in Translation *preview_course_nopop.php?catoid=39&coid=108820
 HEBR 21100 - Masterpieces of Medieval Hebraic Literature in Translation (W) *preview_course_nopop.php?catoid=39&coid=108821
 HEBR 21200 - Readings in Modern Hebrew Literature in Translation (W) *preview_course_nopop.php?catoid=39&coid=108822
-HEBR 21400 - Maimonides’  Guide to the Perplexed *preview_course_nopop.php?catoid=39&coid=108823
+HEBR 21400 - Maimonides’  Guide to the Perplexed (W) *preview_course_nopop.php?catoid=39&coid=108823
 HEBR 21500 - Hebraic and Judaic Culture and Thought in the Medieval Islamic World *preview_course_nopop.php?catoid=39&coid=108824
 HEBR 21800 - Masterpieces of Yiddish Literature in Translation (W) *preview_course_nopop.php?catoid=39&coid=108825
 HEBR 22000 - Israeli Cinema *preview_course_nopop.php?catoid=39&coid=108826

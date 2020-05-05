@@ -7,9 +7,17 @@ oh man i really spent ~like 4 hours writing this huh~ way too long on this huh
 
 ```
 $ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive]
+
 ```
 
 <sup>[some examples below &or;](#examples)<sup>
+
+
+### to re-scrape the course names, etc. 
+
+```
+$ python scrape.py 
+```
 
 
 #### requirements fulfilled (required)
@@ -17,6 +25,8 @@ $ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive
 
 
 #### hardness (required)
+
+*will not go above this the hardness you put i.e. `4` will give you all classes below 400* 
 
 100-, 200-level courses — lower div courses 
 
