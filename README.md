@@ -48,7 +48,7 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 
 *will not go above the hardness you put i.e.*  
 `4` will give you all classes **below** 400-level  
-<sup>*it is not affected by the comparison (optional) used*</sup>
+<sup>*not affected by the [comparison (optional)](#comparison-optional) used*</sup>
 
 100-, 200-level courses — lower div courses 
 
