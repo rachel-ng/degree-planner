@@ -4,7 +4,10 @@ oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too lon
 
 `last scraped: 05/04/2020 21:35:36`
 
+&nbsp;  
 ***NOTE**&nbsp;&nbsp;&nbsp; not all classes are available at all times* 
+
+&nbsp; 
 
 
 
@@ -30,6 +33,8 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 <sup>if you decide to do so, there are [detailed installation instructions below &or;](#installation)</sup>
 
 <sup>[some examples of terminal usage below &or;](#examples)<sup>
+
+&nbsp; 
 
 
 
@@ -71,7 +76,7 @@ includes the command you ran it with (some older example output files do not inc
 
 #### comparison (optional)
 
-this only affects the \# of requirements considered fulfilled and does not include [writing intensives](#writing-intensive-optional)
+only affects the \# of requirements considered fulfilled and does not include [writing intensives](#writing-intensive-optional)
 
 `>=` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **\[default]** &nbsp;&nbsp; e.g. 2 or more
 
@@ -89,6 +94,8 @@ this only affects the \# of requirements considered fulfilled and does not inclu
 
 `-WI` &nbsp;&nbsp;&nbsp;&nbsp; no writing intensives
 
+&nbsp; 
+
 
 
 ### [requirements](data/) fulfilled 
@@ -102,21 +109,26 @@ plurdiv_d
 
 *check [degreeworks](https://degreeworks.cuny.edu/) for everything, put them **exactly** as they correspond to the file names in **[requirements](data/) excluding the file extension*** 
 
+&nbsp;  
 `rc_whatever` required core  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `rc_eng_comp`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `rc_sci`  
 
+&nbsp;  
 `fcc_whatever` flexible common core  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_creative`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_ind`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_us`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_world`  
 
+&nbsp;  
 `plurdiv_x` pluralism and diversity  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_a`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_b`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_c`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_d`  
+
+&nbsp; 
 
 
 ### scraping courses
@@ -126,6 +138,10 @@ gets the names + a link to the course description
 ```
 (venv) $ python scrape.py 
 ```
+<sub>you will need `bs4` `(beautifulsoup4)` for this</sub>  
+
+&nbsp; 
+
 
 
 ## installation 
@@ -151,6 +167,8 @@ gets the names + a link to the course description
    while it is best to do this, you may very well just be able to `pip install bs4` and be done with it 
 
 3. you're ready to go! 
+
+&nbsp; 
 
 
 
