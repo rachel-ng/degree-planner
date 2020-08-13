@@ -122,19 +122,19 @@ plurdiv_d
 *check **[degreeworks](https://degreeworks.cuny.edu/)** for everything, put them **exactly** as they correspond to the file names in **[requirements](data/) excluding the file extension*** 
 
 &nbsp;  
-`rc_whatever` required core  
+`rc_whatever` &nbsp;&nbsp; required core  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `rc_eng_comp`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `rc_sci`  
 
 &nbsp;  
-`fcc_whatever` flexible common core  
+`fcc_whatever` &nbsp;&nbsp; flexible common core  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_creative`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_ind`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_us`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `fcc_world`  
 
 &nbsp;  
-`plurdiv_x` pluralism and diversity  
+`plurdiv_x` &nbsp;&nbsp; pluralism and diversity  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_a`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_b`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `plurdiv_c`  
