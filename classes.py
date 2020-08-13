@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import sys, os, copy
+import argparse
 
 #print(os.listdir('.'))
 
@@ -74,30 +75,24 @@ def fulfillments(cl_ind, d, course_desc, excl):
     return fulfills, {i:(reqs[i]+["WI"] if (i in wi) else reqs[i]) for i in reqs}, wi
 
 
-def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">=", w=""):
+def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp, w):
     ok = {}
 
-    if comp == ">=":
-        if w == "WI":
+    if comp == ">=" or comp == None:
+        if w == "Y" or w == "y":
             ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
-        elif w == "-WI":
+        elif w == "N" or w == "n":
             ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" not in reqs[i]}
         else: 
             ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n)}
 
     if comp == "==":
-        if w == "WI":
+        if w == "Y" or w == "y":
             ok = {i : reqs[i] for i in fulfills if fulfills[i] == int(n) and "WI" in reqs[i]}
-        elif w == "-WI":
+        elif w == "N" or w == "n":
             ok = {i : reqs[i] for i in fulfills if fulfills[i] == int(n) and "WI" not in reqs[i]}
         else:
             ok = {i : reqs[i] for i in fulfills if fulfills[i] == int(n)}
-
-    if comp == "-":
-        if w == "WI":
-            ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" in reqs[i]}
-        elif w == "-WI":
-            ok = {i : reqs[i] for i in fulfills if fulfills[i] >= int(n) and "WI" not in reqs[i]}
 
     '''
     if fulfilled != "-":
@@ -124,10 +119,11 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">=", w=""):
     alph = sorted(good.keys())
     bb = ""
     bb += "python classes.py {} {} {} {} {}\n\n".format(n, hardness, out, comp, w)
-
+    num = 0
     for i in alph: 
         l = i.split(" ")
         if int(l[1][0]) < int(hardness): 
+            num += 1
             c = ""
             l = "\n"
             alt_name_1 = i[:-2] + "00"
@@ -145,16 +141,38 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp=">=", w=""):
             if (course_desc.get(i)):
                 bb += i + c + "\t" + str(good[i]) + l + "\n" 
                 print(i + c + "\t" + str(good[i]) + l)
-
+    print("{} classes found".format(num))
     f = open("output/" + out, "w")
     f.write(bb)
     f.close()
 
 
+def parse (): 
+    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser.add_argument('-f','--fulfill', default=2, 
+        help='requirements you want classes to fulfill, default=2'
+    )
+    parser.add_argument('-l','--level', default=3,
+        help='hardness of classes (up to X00 level), default=3'
+    )
+    parser.add_argument('-o','--output', default="out.txt",
+        help='output file, default = "output/out.txt"'
+    )
+    parser.add_argument('-c', choices=[">=","==",[]], 
+        help='comparison used for requirements fulfilled,  default=">="'
+    )
+    parser.add_argument('--wi', choices=["y","Y","n","N",[]],
+        help='writing intensive classes, default shows all classes'
+    )
+    return parser.parse_args()
+
 if __name__ == "__main__":
+    args = parse()
+    print(args)
     desc = descriptions()
     ci, dct = courses_fulfill()
     excl = courses_exclude()
     fulfills, reqs, wi = fulfillments(ci, dct, desc, excl)
-    seek(fulfills, reqs, wi, desc, sys.argv[1], sys.argv[2], sys.argv[3], **dict(zip(["comp","w"],sys.argv[4:])))
+    seek(fulfills, reqs, wi, desc, int(args.fulfill), int(args.level), args.output, args.c, args.wi)
+
 

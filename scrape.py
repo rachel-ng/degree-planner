@@ -22,7 +22,8 @@ def get_pgs(dir_url):
 
 for start_num in range(1, 26):
     print("pg ", start_num)
-    dir_url = "http://catalog.hunter.cuny.edu/content.php?catoid=39&catoid=39&navoid=11821&filter%5Bitem_type%5D=3&filter%5Bonly_active%5D=1&filter%5B3%5D=1&filter%5Bcpage%5D=" + str(start_num) + "#acalog_template_course_filter"
+    #dir_url = "http://catalog.hunter.cuny.edu/content.php?catoid=39&catoid=39&navoid=11821&filter%5Bitem_type%5D=3&filter%5Bonly_active%5D=1&filter%5B3%5D=1&filter%5Bcpage%5D=" + str(start_num) + "#acalog_template_course_filter"
+    dir_url = "http://catalog.hunter.cuny.edu/content.php?catoid=43&catoid=43&navoid=13946&filter%5Bitem_type%5D=3&filter%5Bonly_active%5D=1&filter%5B3%5D=1&filter%5Bcpage%5D=" + str(start_num) + "#acalog_template_course_filter"
     get_pgs(dir_url)
 
 #print(courses)
