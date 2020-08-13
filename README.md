@@ -48,16 +48,18 @@ http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108730
 please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** and ***[scraping courses](#scraping-courses)*** sections as well for more accurate info on your situation and on the courses! 
 
 <sub>you will need `bs4` `(beautifulsoup4)` for scraping course data</sub>  
-<sup>if you decide to do so, there are [detailed installation instructions below &or;](#installation)</sup>
+<sup>if you decide to do so, there are [more detailed installation instructions below &or;](#installation)</sup>
 
 <sup>[some examples of terminal usage below &or;](#examples)<sup>
 
 
 
-#### requirements fulfilled (required)
+#### requirements fulfilled
 
 \# of requirements the classes fulfill  
 <sub>*can be adjusted with [comparison (optional)](#comparison-optional)*</sub>
+
+default: `2`
 
 **NOTE**
 - does not include [writing intensives](#writing-intensive-optional)
@@ -72,7 +74,9 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
   *but it only fulfills **1 (one)** of the **plurdiv (pluralism and diversity) requirements**, **not both***
 
 
-#### level (required)
+#### level
+
+default: `3` (max 300 level)
 
 *will not go above the level you put e.g.* `4` will give you all classes **below** 400-level  
 <sub>*not affected by the [comparison (optional)](#comparison-optional) used*</sub>
@@ -84,13 +88,15 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
 500-, 600-, 700-level courses — graduate courses
 
 
-#### output file (required)
+#### output file
+
+default: `out.txt` 
 
 writes to `output/file_name.txt`  
 includes the command you ran it with (some older example output files do not include this)
 
 
-#### comparison (optional)
+#### comparison
 
 only affects the \# of requirements considered fulfilled and does not include [writing intensives](#writing-intensive-optional)
 
@@ -99,7 +105,7 @@ only affects the \# of requirements considered fulfilled and does not include [w
 `==` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. exactly 1
 
 
-#### writing intensive (optional)
+#### writing intensive
 
 <sub>not included in the number of requirements</sub>
 
