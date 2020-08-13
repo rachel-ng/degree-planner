@@ -148,7 +148,7 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp, w):
 
 
 def parse (): 
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser = argparse.ArgumentParser(description='finding courses that fulfill more requirements')
     parser.add_argument('-f','--fulfill', default=2, 
         help='requirements you want classes to fulfill, default=2'
     )
