@@ -2,8 +2,8 @@
 
 oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too long on this huh
 
-`last scraped: 05/04/2020 21:35:36`
-
+`last scraped: 08/12/2020 20:54:32`  
+~`last scraped: 05/04/2020 21:35:36`~  
 ***NOTE**&nbsp;&nbsp;&nbsp; not all classes are available at all times* 
 
 &nbsp; 
@@ -12,8 +12,24 @@ oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too lon
 
 ## terminal usage
 
+now uses argparse for better CLI experience
+
 ```
-(venv) $ python classes.py [reqs_fulfill] [hardness] [output] [comp] [writing_intensive]
+(venv) $ python classes.py [-h] -f FULFILL [-l LEVEL] [-o OUTPUT] [-c C] [--wi {y,Y,n,N,}]
+
+finding courses that fulfill more requirements
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -f FULFILL, --fulfill FULFILL
+                        requirements you want classes to fulfill, default=2
+  -l LEVEL, --level LEVEL
+                        hardness of classes (up to X00 level), default=3
+  -o OUTPUT, --output OUTPUT
+                        output file, default = "output/out.txt"
+  -c {>=,==,[]}         comparison used for requirements fulfilled,
+                        default=">="
+  --wi {y,Y,n,N,[]}     writing intensive classes, default shows all classes
 ```
 
 ```
@@ -53,9 +69,9 @@ please also look at the ***[requirements fulfilled](#requirements-fulfilled)*** 
   *but it only fulfills **1 (one)** of the **plurdiv (pluralism and diversity) requirements**, **not both***
 
 
-#### hardness (required)
+#### level (required)
 
-*will not go above the hardness you put e.g.* `4` will give you all classes **below** 400-level  
+*will not go above the level you put e.g.* `4` will give you all classes **below** 400-level  
 <sub>*not affected by the [comparison (optional)](#comparison-optional) used*</sub>
 
 100-, 200-level courses — lower div courses 
@@ -79,17 +95,16 @@ only affects the \# of requirements considered fulfilled and does not include [w
 
 `==` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e.g. exactly 1
 
-`-` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for use with [writing intensive option](#writing-intensive-optional), uses the  &nbsp; **\[default]** &nbsp;&nbsp; `>=`
-
 
 #### writing intensive (optional)
 
 <sub>not included in the number of requirements</sub>
 
+default shows all classes 
 
-`WI` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; writing intensives only
+`y/Y` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; writing intensives only
 
-`-WI` &nbsp;&nbsp;&nbsp;&nbsp; no writing intensives
+`n/N` &nbsp;&nbsp;&nbsp;&nbsp; no writing intensives
 
 &nbsp; 
 
@@ -175,24 +190,23 @@ gets the names + a link to the course description
 #### basic
 
 ```
-(venv) $ python classes.py 2 4 out.txt
+(venv) $ python classes.py -f 2 -l 4 -o out.txt
 ```
 
 
 #### classes that fulfill 1 requirement
 ```
-(venv) $ python classes.py 1 4 out.txt == 
+(venv) $ python classes.py -f 1 -l 4 -c "=="
 ```
 
 
 #### writing intensive classes that fulfill 2 or more requirements 
 ```
-(venv) $ python classes.py 2 4 out.txt - WI           // lazy way
-(venv) $ python classes.py 2 4 out.txt >= WI
+(venv) $ python classes.py -f 2 -f 4 -c ">=" --wi y
 ```
 
 
 #### non-writing intensive classes that fulfill 1 requirement
 ```
-(venv) $ python classes.py 1 4 out.txt == -WI
+(venv) $ python classes.py -f 1 -l 4 -o out.txt -c "==" --wi n
 ```
