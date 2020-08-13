@@ -15,8 +15,6 @@ oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too lon
 
 ## terminal usage
 
-now uses argparse for better CLI experience
-
 ```
 (venv) $ python classes.py [-h] -f FULFILL [-l LEVEL] [-o OUTPUT] [-c {>=,==,}] [--wi {y,Y,n,N,}]
 
