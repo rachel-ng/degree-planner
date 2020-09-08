@@ -1,8 +1,6 @@
 # degree-planner
 
-oh man i really spent ~like 4 hours writing this huh~ ~way too long~ far too long on this huh
-
-<sup>now with a proper CLI lmaooooo</sup>
+<sup>now with a proper CLI!</sup>
 
 `last scraped: 08/12/2020 20:54:32`  
 ~`last scraped: 05/04/2020 21:35:36`~ 
